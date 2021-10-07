@@ -25,13 +25,15 @@ def tokenize(reader):
     return tokens, tokenized_logs, tokenized_log_lengths
 
 
-# For each log message in the file, create a list of word tokens and list of word length tokens.
+# Open the file, call tokenize() to create lists of tokens, log tokens, and log token lengths
 def process_file(file_name):
+    print('Processing file ', file_name)
     filepath = data + file_name
     with open(filepath) as csv_file:
         reader = csv.DictReader(csv_file)
         tokens, tokenized_logs, tokenized_log_lengths = tokenize(reader)
-        print('done')
+        print('Finished tokenizing.')
+        # TODO form clusters from tokens
 
 
 if __name__ == '__main__':
