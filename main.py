@@ -3,7 +3,7 @@ import math
 
 data = './data/'
 LOG_LENGTH_RANGE = 0.1
-SIMILARITY_THRESHOLD = 0.9  # TODO this is a placeholder, research and change accordingly
+DISTANCE_THRESHOLD = 0.9  # TODO this is a placeholder, research and change accordingly
 
 keywords = ['error', 'warning', 'application', 'service']
 
@@ -83,8 +83,8 @@ def get_similar_clusters(clusters, log):
         min_len = math.floor(len_template - (len_template * LOG_LENGTH_RANGE))
         max_len = math.ceil(len_template + (len_template * LOG_LENGTH_RANGE))
         if len(log.split()) in range(min_len, max_len):
-            # Check if similarity exceeds threshold
-            if distance(template, log) > SIMILARITY_THRESHOLD:
+            # Check if similarity is less than threshold
+            if distance(template, log) < DISTANCE_THRESHOLD:
                 similar_clusters.append(c)
     return similar_clusters
 
