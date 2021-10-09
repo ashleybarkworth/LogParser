@@ -14,20 +14,21 @@ class Cluster:
         self.logs = [log]
         self.keyword = keyword
         if log is not None:
-            self.log_template = self.create_log_template(log)
-
-    def create_log_template(self, log):
-        return log
+            self.log_template = log
 
     def add_log_to_cluster(self, log):
         self.logs.append(log)
 
     def update_log_template(self, log):
-        return None
+        log_tokens = log.split()
+        template_tokens = self.log_template.split()
+        for i, token in enumerate(template_tokens):
+            if log_tokens[i] != template_tokens[i]:
+                self.log_template.replace(template_tokens[i], '*')
 
 
 def distance(template, log):
-    return 0
+    return 0.8
 
 
 def get_most_similar_cluster(clusters, log):
@@ -49,7 +50,7 @@ def get_most_similar_cluster(clusters, log):
 
 def add_log_to_keyword_clusters(clusters, log):
     for c in clusters:
-        if log.contains(c.keyword):
+        if c.keyword in log:
             c.add_log_to_clusters(log)
 
 
