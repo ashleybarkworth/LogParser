@@ -7,11 +7,15 @@ LOG_LENGTH_RANGE = 0.1
 DISTANCE_THRESHOLD = 0.9  # TODO this is a placeholder, research and change accordingly
 
 keywords = ['error', 'warning', 'application', 'service']
+c_id = 0
 
 
 class Cluster:
 
     def __init__(self, log=None, keyword=None):
+        global c_id
+        self.id = c_id
+        c_id += 1
         self.logs = [log]
         self.keyword = keyword
         self.count = 1
@@ -25,7 +29,7 @@ class Cluster:
     def update_log_template(self, log):
         log_tokens = log.split()
         self.log_template = ' '.join([token if token == log_tokens[idx] else '<*>'
-                                     for idx, token in enumerate(self.log_template.split())])
+                                      for idx, token in enumerate(self.log_template.split())])
 
     def fill_wildcards(self, log):
         """
@@ -37,9 +41,19 @@ class Cluster:
         :return: log template with wildcards replaced with log's values, if any wildcards are present
         """
         log_tokens = log.split()
-        filled_template = [token if token != '<*>' else log_tokens[idx]
-                           for idx, token in enumerate(self.log_template.split())]
+        filled_template = ' '.join([token if token != '<*>' else log_tokens[idx]
+                                   for idx, token in enumerate(self.log_template.split())])
         return filled_template
+
+    def __str__(self):
+        delimiter = '--------------------------------------------\n'
+        title = 'CLUSTER ID {0}\n'.format(self.id)
+        template = 'TEMPLATE)\n{0}\n'.format(self.log_template)
+        logs = 'LOGS)\n'
+        for i, log in enumerate(self.logs):
+            logs += 'Log {0}: '.format(i) + log + '\n'
+
+        return delimiter + title + template + logs + delimiter
 
 
 def distance(template, log):
@@ -135,13 +149,21 @@ def create_clusters(reader):
     return keyword_clusters, log_clusters
 
 
+def print_clusters(clusters):
+    [print(c) for c in clusters]
+
+
 # Open the file, call tokenize() to create lists of tokens, log tokens, and log token lengths
 def process_file(file_name):
     print('Processing file ', file_name)
     filepath = data + file_name
     with open(filepath) as csv_file:
         reader = csv.DictReader(csv_file)
+        # Create clusters
         keyword_clusters, log_clusters = create_clusters(reader)
+        # Print out keyword and log clusters
+        print_clusters(keyword_clusters)
+        print_clusters(log_clusters)
         print('Done clustering')
 
 
