@@ -42,8 +42,44 @@ class Cluster:
         return filled_template
 
 
-def distance(template, log):
-    return 0.8
+def levenshteinDistance(template, log):
+    
+    distances = numpy.zeros((len(template) + 1, len(log) + 1))
+#     Intializing the distance matrix
+    for templateMatrix in range(len(template) + 1):
+        distances[templateMatrix][0] = templateMatrix
+
+    for logMatrix in range(len(log) + 1):
+        distances[0][logMatrix] = logMatrix
+        
+    deletion = 0
+    inseration = 0
+    substitution = 0
+#     iterate loop throgh each cell in matrix
+    for templateMatrix in range(1, len(template) + 1):
+        for logMatrix in range(1, len(log) + 1):
+           
+            if (template[templateMatrix-1] == log[logMatrix-1]):
+                distances[templateMatrix][logMatrix] = distances[templateMatrix - 1][logMatrix - 1]
+            else:
+                deletion = distances[templateMatrix][logMatrix - 1]
+                inseration = distances[templateMatrix - 1][logMatrix]
+                substitution = distances[templateMatrix - 1][logMatrix - 1]
+                
+                if (deletion <= inseration and deletion <= substitution):
+                    distances[templateMatrix][logMatrix] = deletion + 1
+                elif (inseration <= deletion and inseration <= substitution):
+                    distances[templateMatrix][logMatrix] = inseration + 1
+                else:
+                    distances[templateMatrix][logMatrix] = substitution + 1
+
+                   
+#     printDistances(distances, len(template), len(log))
+    distance=distances[len(template)][len(log)]
+
+#     print(distance)
+
+    return distance
 
 
 def get_most_similar_cluster(clusters, log):
@@ -58,7 +94,7 @@ def get_most_similar_cluster(clusters, log):
     for c in clusters:
         # Fill template's wildcards with log values for more accurate comparison
         filled_template = c.fill_wildcards(log)
-        dist = distance(filled_template, log)
+        dist = levenshteinDistance(filled_template, log)
         if minimum_distance < 0 or dist < minimum_distance:
             minimum_distance = dist
             most_similar_cluster = c
@@ -105,7 +141,7 @@ def get_similar_clusters(clusters, log):
         if len(log.split()) == len(template.split()):
             filled_template = c.fill_wildcards(log)
             # Check if similarity is less than threshold
-            if distance(filled_template, log) < DISTANCE_THRESHOLD:
+            if levenshteinDistance(filled_template, log) < DISTANCE_THRESHOLD:
                 similar_clusters.append(c)
     return similar_clusters
 
