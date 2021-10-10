@@ -14,15 +14,32 @@ class Cluster:
     def __init__(self, log=None, keyword=None):
         self.logs = [log]
         self.keyword = keyword
+        self.count = 1
         if log is not None:
             self.log_template = log
 
     def add_log_to_cluster(self, log):
+        self.count += 1
         self.logs.append(log)
 
     def update_log_template(self, log):
         log_tokens = log.split()
-        self.log_template = ''.join([token if token == log_tokens[idx] else '*' for idx, token in enumerate(self.log_template.split())])
+        self.log_template = ' '.join([token if token == log_tokens[idx] else '<*>'
+                                     for idx, token in enumerate(self.log_template.split())])
+
+    def fill_wildcards(self, log):
+        """
+        Fills the template's wildcards with given log values for more accurate comparison
+        e.g., if self.log_template = "Error id *: service * terminated unexpectedly",
+                and log = "Error id 984: service 9213 terminated unexpectedly", then
+                filled_template = "Error id 984: service 9213 terminated unexpectedly"
+        :param log: log containing values for wildcards
+        :return: log template with wildcards replaced with log's values, if any wildcards are present
+        """
+        log_tokens = log.split()
+        filled_template = [token if token != '<*>' else log_tokens[idx]
+                           for idx, token in enumerate(self.log_template.split())]
+        return filled_template
 
 
 def distance(template, log):
@@ -39,7 +56,9 @@ def get_most_similar_cluster(clusters, log):
     minimum_distance = -1
     most_similar_cluster = None
     for c in clusters:
-        dist = distance(c.log_template, log)
+        # Fill template's wildcards with log values for more accurate comparison
+        filled_template = c.fill_wildcards(log)
+        dist = distance(filled_template, log)
         if minimum_distance < 0 or dist < minimum_distance:
             minimum_distance = dist
             most_similar_cluster = c
@@ -47,6 +66,11 @@ def get_most_similar_cluster(clusters, log):
 
 
 def add_log_to_keyword_clusters(clusters, log):
+    """
+    Checks to see if log message contains any of the keywords. If so, the log is added to the corresponding cluster.
+    :param clusters: list of keyword clusters
+    :param log: the log message
+    """
     for c in clusters:
         # Convert to uppercase in order to search for all possible cases, e.g. 'error', 'Error', 'ERROR'
         if c.keyword.upper() in log.upper():
@@ -77,14 +101,11 @@ def get_similar_clusters(clusters, log):
     similar_clusters = []
     for c in clusters:
         template = c.log_template
-        len(template.split())
-        # Check if log's length equals template's length +- 10% #  TODO make this work
-        # len_template = len(template.split())
-        # min_len = math.floor(len_template - (len_template * LOG_LENGTH_RANGE))
-        # max_len = math.ceil(len_template + (len_template * LOG_LENGTH_RANGE))
+        # For now this just checks if log lengths are equal, maybe look at comparing different lengths later
         if len(log.split()) == len(template.split()):
+            filled_template = c.fill_wildcards(log)
             # Check if similarity is less than threshold
-            if distance(template, log) < DISTANCE_THRESHOLD:
+            if distance(filled_template, log) < DISTANCE_THRESHOLD:
                 similar_clusters.append(c)
     return similar_clusters
 
