@@ -2,9 +2,11 @@ import csv
 import math
 import re
 
+import numpy
+import textdistance
+
 data = './data/'
-LOG_LENGTH_RANGE = 0.1
-DISTANCE_THRESHOLD = 0.9  # TODO this is a placeholder, research and change accordingly
+DISTANCE_THRESHOLD = 0.3  # TODO this is a placeholder, research and change accordingly
 
 keywords = ['error', 'warning', 'application', 'service']
 c_id = 0
@@ -16,7 +18,7 @@ class Cluster:
         global c_id
         self.id = c_id
         c_id += 1
-        self.logs = [log]
+        self.logs = [log] if log is not None else []
         self.keyword = keyword
         self.count = 1
         if log is not None:
@@ -28,8 +30,7 @@ class Cluster:
 
     def update_log_template(self, log):
         log_tokens = log.split()
-        self.log_template = ' '.join([token if token == log_tokens[idx] else '<*>'
-                                      for idx, token in enumerate(self.log_template.split())])
+        self.log_template = ' '.join([token if token == log_tokens[idx] else '<*>' for idx, token in enumerate(self.log_template.split())])
 
     def fill_wildcards(self, log):
         """
@@ -48,71 +49,55 @@ class Cluster:
     def __str__(self):
         delimiter = '--------------------------------------------\n'
         title = 'CLUSTER ID {0}\n'.format(self.id)
-        template = 'TEMPLATE)\n{0}\n'.format(self.log_template)
+        if hasattr(self, 'log_template'):
+            template_or_keyword = 'TEMPLATE)\n{0}\n'.format(self.log_template)
+        elif hasattr(self, 'keyword'):
+            template_or_keyword = 'KEYWORD)\n{0}\n'.format(self.keyword)
+        else:
+            return AttributeError
+
         logs = 'LOGS)\n'
         for i, log in enumerate(self.logs):
             logs += 'Log {0}: '.format(i) + log + '\n'
 
-        return delimiter + title + template + logs + delimiter
+        return delimiter + title + template_or_keyword + logs + delimiter
 
 
 def levenshteinDistance(template, log):
-    
-    distances = numpy.zeros((len(template) + 1, len(log) + 1))
-#     Intializing the distance matrix
-    for templateMatrix in range(len(template) + 1):
-        distances[templateMatrix][0] = templateMatrix
+    #
+    # distances = numpy.zeros((len(template) + 1, len(log) + 1))
+    # # Initializing the distance matrix
+    # for templateMatrix in range(len(template) + 1):
+    #     distances[templateMatrix][0] = templateMatrix
+    #
+    # for logMatrix in range(len(log) + 1):
+    #     distances[0][logMatrix] = logMatrix
+    #
+    # # iterate loop through each cell in matrix
+    # for templateMatrix in range(1, len(template) + 1):
+    #     for logMatrix in range(1, len(log) + 1):
+    #
+    #         if template[templateMatrix - 1] == log[logMatrix - 1]:
+    #             distances[templateMatrix][logMatrix] = distances[templateMatrix - 1][logMatrix - 1]
+    #         else:
+    #             deletion = distances[templateMatrix][logMatrix - 1]
+    #             insertion = distances[templateMatrix - 1][logMatrix]
+    #             substitution = distances[templateMatrix - 1][logMatrix - 1]
+    #
+    #             if deletion <= insertion and deletion <= substitution:
+    #                 distances[templateMatrix][logMatrix] = deletion + 1
+    #             elif insertion <= deletion and insertion <= substitution:
+    #                 distances[templateMatrix][logMatrix] = insertion + 1
+    #             else:
+    #                 distances[templateMatrix][logMatrix] = substitution + 1
+    #
+    # # printDistances(distances, len(template), len(log))
+    # distance = distances[len(template)][len(log)]
+    # Levenshtein distance
+    dist2 = textdistance.levenshtein(template, log)
 
-    for logMatrix in range(len(log) + 1):
-        distances[0][logMatrix] = logMatrix
-        
-    deletion = 0
-    inseration = 0
-    substitution = 0
-#     iterate loop throgh each cell in matrix
-    for templateMatrix in range(1, len(template) + 1):
-        for logMatrix in range(1, len(log) + 1):
-           
-            if (template[templateMatrix-1] == log[logMatrix-1]):
-                distances[templateMatrix][logMatrix] = distances[templateMatrix - 1][logMatrix - 1]
-            else:
-                deletion = distances[templateMatrix][logMatrix - 1]
-                inseration = distances[templateMatrix - 1][logMatrix]
-                substitution = distances[templateMatrix - 1][logMatrix - 1]
-                
-                if (deletion <= inseration and deletion <= substitution):
-                    distances[templateMatrix][logMatrix] = deletion + 1
-                elif (inseration <= deletion and inseration <= substitution):
-                    distances[templateMatrix][logMatrix] = inseration + 1
-                else:
-                    distances[templateMatrix][logMatrix] = substitution + 1
-
-                   
-#     printDistances(distances, len(template), len(log))
-    distance=distances[len(template)][len(log)]
-
-#     print(distance)
-
-    return distance
-
-
-def get_most_similar_cluster(clusters, log):
-    """
-    Returns the cluster with the minimum distance between its log template and the given log
-    :param clusters: the list of clusters (will be the clusters returned from get_similar_clusters)
-    :param log: the log message
-    :return: the most similar cluster
-    """
-    minimum_distance = -1
-    most_similar_cluster = None
-    for c in clusters:
-        # Fill template's wildcards with log values for more accurate comparison
-        filled_template = c.fill_wildcards(log)
-        dist = levenshteinDistance(filled_template, log)
-        if minimum_distance < 0 or dist < minimum_distance:
-            minimum_distance = dist
-            most_similar_cluster = c
-    return most_similar_cluster
+    # print(distance)
+    return dist2 / max(len(template), len(log))
 
 
 def add_log_to_keyword_clusters(clusters, log):
@@ -146,18 +131,19 @@ def get_similar_clusters(clusters, log):
         predetermined threshold
     :param clusters: the list of clusters to search from
     :param log: the log
-    :return: list of similar clusters
+    :return: list of similar clusters with their distances
     """
-    similar_clusters = []
+    candidates = []
     for c in clusters:
         template = c.log_template
         # For now this just checks if log lengths are equal, maybe look at comparing different lengths later
         if len(log.split()) == len(template.split()):
             filled_template = c.fill_wildcards(log)
             # Check if similarity is less than threshold
-            if levenshteinDistance(filled_template, log) < DISTANCE_THRESHOLD:
-                similar_clusters.append(c)
-    return similar_clusters
+            distance = levenshteinDistance(filled_template, log)
+            if distance < DISTANCE_THRESHOLD:
+                candidates.append((c, distance))
+    return candidates
 
 
 def create_clusters(reader):
@@ -172,15 +158,16 @@ def create_clusters(reader):
         # log = sanitize_input(row['Content'], file_type)
         log = row['Content']
         add_log_to_keyword_clusters(keyword_clusters, log)
-        similar_clusters = get_similar_clusters(log_clusters, log)
+        candidates = get_similar_clusters(log_clusters, log)
         # If there's no similar clusters, then create a new one with the log
-        if not similar_clusters:
-            new_cluster = Cluster(log=log)
-            log_clusters.append(new_cluster)
-        else:
-            most_similar_cluster = get_most_similar_cluster(similar_clusters, log)  # Find most similar cluster
+        candidates.sort(key=lambda c: c[1], reverse=True)
+        if len(candidates) > 0:
+            most_similar_cluster = candidates[0][0]
             most_similar_cluster.add_log_to_cluster(log)  # Add new log to most similar cluster
             most_similar_cluster.update_log_template(log)  # Update most similar cluster's log template
+        else:
+            new_cluster = Cluster(log=log)
+            log_clusters.append(new_cluster)
 
     return keyword_clusters, log_clusters
 
@@ -198,10 +185,12 @@ def process_file(file_name):
         # Create clusters
         keyword_clusters, log_clusters = create_clusters(reader)
         # Print out keyword and log clusters
+        print('Keyword Clusters\n==============\n')
         print_clusters(keyword_clusters)
+        print('Log Clusters\n==============\n')
         print_clusters(log_clusters)
         print('Done clustering')
 
 
 if __name__ == '__main__':
-    process_file('Windows_2k.log_structured.csv')
+    process_file('Thunderbird_2k.log_structured.csv')
