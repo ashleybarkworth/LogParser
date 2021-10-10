@@ -1,5 +1,6 @@
 import csv
 import math
+import re
 
 data = './data/'
 LOG_LENGTH_RANGE = 0.1
@@ -21,10 +22,7 @@ class Cluster:
 
     def update_log_template(self, log):
         log_tokens = log.split()
-        template_tokens = self.log_template.split()
-        for i, token in enumerate(template_tokens):
-            if log_tokens[i] != template_tokens[i]:
-                self.log_template.replace(template_tokens[i], '*')
+        self.log_template = ''.join([token if token == log_tokens[idx] else '*' for idx, token in enumerate(self.log_template.split())])
 
 
 def distance(template, log):
@@ -50,8 +48,9 @@ def get_most_similar_cluster(clusters, log):
 
 def add_log_to_keyword_clusters(clusters, log):
     for c in clusters:
-        if c.keyword in log:
-            c.add_log_to_clusters(log)
+        # Convert to uppercase in order to search for all possible cases, e.g. 'error', 'Error', 'ERROR'
+        if c.keyword.upper() in log.upper():
+            c.add_log_to_cluster(log)
 
 
 def create_keyword_clusters():
@@ -79,11 +78,11 @@ def get_similar_clusters(clusters, log):
     for c in clusters:
         template = c.log_template
         len(template.split())
-        # Check if log's length equals template's length +- 10%
-        len_template = len(template.split())
-        min_len = math.floor(len_template - (len_template * LOG_LENGTH_RANGE))
-        max_len = math.ceil(len_template + (len_template * LOG_LENGTH_RANGE))
-        if len(log.split()) in range(min_len, max_len):
+        # Check if log's length equals template's length +- 10% #  TODO make this work
+        # len_template = len(template.split())
+        # min_len = math.floor(len_template - (len_template * LOG_LENGTH_RANGE))
+        # max_len = math.ceil(len_template + (len_template * LOG_LENGTH_RANGE))
+        if len(log.split()) == len(template.split()):
             # Check if similarity is less than threshold
             if distance(template, log) < DISTANCE_THRESHOLD:
                 similar_clusters.append(c)
@@ -99,6 +98,7 @@ def create_clusters(reader):
     log_clusters = []  # Clusters based on log similarity
     keyword_clusters = create_keyword_clusters()  # Clusters based on keywords
     for row in reader:
+        # log = sanitize_input(row['Content'], file_type)
         log = row['Content']
         add_log_to_keyword_clusters(keyword_clusters, log)
         similar_clusters = get_similar_clusters(log_clusters, log)
@@ -120,7 +120,8 @@ def process_file(file_name):
     filepath = data + file_name
     with open(filepath) as csv_file:
         reader = csv.DictReader(csv_file)
-        create_clusters(reader)
+        keyword_clusters, log_clusters = create_clusters(reader)
+        print('Done clustering')
 
 
 if __name__ == '__main__':
