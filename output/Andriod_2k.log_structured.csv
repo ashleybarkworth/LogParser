@@ -1,0 +1,2001 @@
+EventId,EventTemplate
+8454ef0a,"printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}}, allDrawn= false, startingDisplayed =  false, startingMoved =  false, isRelaunching =  false"
+4859ab45,"acquire lock=233570404, flags=0x1, tag=""View Lock"", name=com.android.systemui, ws=null, uid=10037, pid=2227"
+2528f150,<*>
+ed127766,Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide
+1b7dfcad,visible is system.time.showampm
+5c6b423a,mVisiblity.getValue is false
+aecdf859,visible is system.charge.show
+5c6b423a,mVisiblity.getValue is false
+4775d3d2,visible is system.call.count gt 0
+5c6b423a,mVisiblity.getValue is false
+ccb4d7d4,visible is system.message.count gt 0
+5c6b423a,mVisiblity.getValue is false
+b83f7b69,visible is system.ownerinfo.show
+5c6b423a,mVisiblity.getValue is false
+f619830e,"release:lock=233570404, flg=0x0, tag=""View Lock"", name=com.android.systemui"", ws=null, uid=10037, pid=2227"
+2528f150,<*>
+ed127766,Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+e0820fe8,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", <*> uid=1000, pid=1702"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+382028dc,cancelAutohide
+d4fbd676,<*> <*>
+f6037377,Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942 com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407 com.android.server.wm.Session.performDeferredDestroy:225 android.view.IWindowSession$Stub.onTransact:398 com.android.server.wm.Session.onTransact:136 android.os.Binder.execTransact:565 <bottom of call stack> <bottom of call stack>
+22b6ed36,Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowManagerService.tryStartExitingAnimation:3299 com.android.server.wm.WindowManagerService.relayoutWindow:3179 com.android.server.wm.Session.relayout:215 android.view.IWindowSession$Stub.onTransact:286 com.android.server.wm.Session.onTransact:136
+d8eb57e9,"release:lock=62617001, flg=0x0, tag=""WindowManager"", name=android"", ws=WorkSource{10113}, uid=1000, pid=1702"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+f80ee7b9,"orientation change is complete, call stopFreezingDisplayLocked"
+5d19ad1e,Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity}
+2be87b23,startAnimation begin
+4c358bbd,startAnimation end
+b7133171,"release:lock=226887582, flg=0x0, tag=""SCREEN_FROZEN"", name=android"", ws=null, uid=1000, pid=1702"
+2528f150,<*>
+ba666467,remove(PendingIntent{19abed0: PendingIntentRecord{a485420 com.tencent.qt.qtl broadcastIntent}}) changed bounds; rebatching
+68ca9762,<*> last=0); user=0 USER_ROTATION_LOCKED
+ac30ee86,Application requested orientation <*> got rotation 0 which has compatible metrics
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+97aa249b,getNeighboringCellInfo calling app is com.amap.android.ams
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+2528f150,<*>
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+6c9ce542,"<*> flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626"
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+b0800b30,"<*> flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+2528f150,<*>
+bc14a64a,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, <*> uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+1ec14728,Skipping AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}} -- going to hide
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+ee701ade,Bad activity token: android.os.BinderProxy@2bd79ce
+9ef626fd,java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token
+1ec14728,Skipping AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}} -- going to hide
+e0820fe8,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", <*> uid=1000, pid=1702"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+27128179,"onTouchEvent::0, x=271.0, y=14.0"
+2528f150,<*>
+2528f150,<*>
+e23384fb,disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+2528f150,<*>
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+2528f150,<*>
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+e41df5d7,<*> i:0
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+d4fbd676,<*> <*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+d66605bd,Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+e41df5d7,<*> i:0
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+2528f150,<*>
+39bbc2f5,"onTouchEvent::1, x=296.0, y=327.0"
+d4fbd676,<*> <*>
+e8bdfc80,"flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f4c0934d,Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+37f45231,isSimPinSecure mSimDatas is null or empty
+78ec30c0,registerCallback not in UI.
+afa07658,android.util.AndroidRuntimeException: Must execute in UI
+f625704f,*** <*> callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093
+78ec30c0,registerCallback not in UI.
+afa07658,android.util.AndroidRuntimeException: Must execute in UI
+9cd5df64,*** unregister callback for null
+ce4d230a,[PhoneIntfMgr] getDataEnabled: subId=1 phoneId=1
+1d4caef7,[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+5c7dfbc9,"onInterceptTouchEvent MotionEvent { <*> actionButton=0, id[0]=0, <*> <*> toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, <*> <*> deviceId=3, source=0x1002 }, mBlockTouches=false"
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+5c7dfbc9,"onInterceptTouchEvent MotionEvent { <*> actionButton=0, id[0]=0, <*> <*> toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, <*> <*> deviceId=3, source=0x1002 }, mBlockTouches=false"
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+a6227493,"animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true"
+2528f150,<*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+51f29709,START u0 {act=com.tencent.mobileqq.action.MAINACTIVITY flg=0x14000000 cmp=com.tencent.mobileqq/.activity.SplashActivity (has extras)} from uid 10111 on display 0
+e074695e,"ActivityRecord info: <*> com.tencent.mobileqq.activity.SplashActivity}, euid: 0"
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+d4fbd676,<*> <*>
+bc14a64a,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, <*> uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+d4fbd676,<*> <*>
+2528f150,<*>
+299ebcc9,"cancelNotification,cancelNotificationLocked,callingUid = <*> = <*>"
+41a4e3e1,"cancelNotificationLocked called,tell the app,reason = <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+c34d2ca2,applyOptionsLocked: Unknown animationType=0
+d4fbd676,<*> <*>
+b7a45c18,"flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false"
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e973c9dc,"Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], <*> <*> inRotation:[false], rot:[0]"
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+52e559cf,"animateCollapsePanels:flags=0, force=false, delayed=false, <*>"
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+f4c0934d,Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+89176649,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }"
+105b5739,"Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }"
+dae4ef73,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+2528f150,<*>
+c98ac076,disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+e0820fe8,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", <*> uid=1000, pid=1702"
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+78ec30c0,registerCallback not in UI.
+afa07658,android.util.AndroidRuntimeException: Must execute in UI
+f625704f,*** <*> callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+b73dcd1b,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+2528f150,<*>
+9aeb7954,"Start dump, calling from : pid=12782, uid=1000"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+846a575a,"acquire lock=237091223, flags=0x1, tag=""WiredAccessoryManager"", name=android, ws=null, uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+0ad8fb69,setWiredDeviceConnectionState  type: -2147483632  state: 0
+e284f3ee,"acquire lock=86152250, flags=0x1, tag=""handleAudioEvent"", name=android, ws=null, uid=1000, pid=1702"
+2528f150,<*>
+36c77041,setWiredDeviceConnectionState  type: 4  state: 0
+51621afb,"release:lock=237091223, flg=0x0, tag=""WiredAccessoryManager"", name=android"", ws=null, uid=1000, pid=1702"
+2528f150,<*>
+2528f150,<*>
+6c9f69f4,"ActivityManagerService,attachApplication,callingPid = <*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+414357d5,"acquire <*> flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0"
+2528f150,<*>
+83a486cc,"release:lock=86152250, flg=0x0, tag=""handleAudioEvent"", name=android"", ws=null, uid=1000, pid=1702"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+ac1efdd1,getDevicesForStream streamType: 3
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+ac1efdd1,getDevicesForStream streamType: 3
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+6341ccaf,"cleanUpApplicationRecordLocked, pid: <*> restart: false"
+417d2e1d,"cleanUpApplicationRecordLocked, reset pid: <*> euid: 0"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+c3b8bc8c,setSpeakerphoneOn  on: true
+d4fbd676,<*> <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+b0800b30,"<*> flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+103cce8d,"sending alarm <*> type 3 when <*> PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+8217ec4a,Received TIME_TICK alarm; rescheduling
+cea3f996,scheduleTimeTickEvent triggerAtTime = <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+82785916,received broadcast android.intent.action.TIME_TICK
+2528f150,<*>
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+97aa249b,getNeighboringCellInfo calling app is com.amap.android.ams
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+2528f150,<*>
+6c9ce542,"<*> flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626"
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+eafb5f26,"sending alarm Alarm{19069ff type 3 when 509169377 PendingIntent{50303cc: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+177b3238,Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+6341ccaf,"cleanUpApplicationRecordLocked, pid: <*> restart: false"
+417d2e1d,"cleanUpApplicationRecordLocked, reset pid: <*> euid: 0"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+6341ccaf,"cleanUpApplicationRecordLocked, pid: <*> restart: false"
+417d2e1d,"cleanUpApplicationRecordLocked, reset pid: <*> euid: 0"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+6341ccaf,"cleanUpApplicationRecordLocked, pid: <*> restart: false"
+417d2e1d,"cleanUpApplicationRecordLocked, reset pid: <*> euid: 0"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+103cce8d,"sending alarm <*> type 3 when <*> PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+8217ec4a,Received TIME_TICK alarm; rescheduling
+cea3f996,scheduleTimeTickEvent triggerAtTime = <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+82785916,received broadcast android.intent.action.TIME_TICK
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+85bd6577,remove(PendingIntent{e4e2534: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}) changed bounds; rebatching
+6c9ce542,"<*> flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+6c9ce542,"<*> flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+97aa249b,getNeighboringCellInfo calling app is com.amap.android.ams
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+460701f9,Unable to start service Intent { act=com.tencent.android.tpush.action.keepalive cmp=com.qqgame.hlddz/com.tencent.android.tpush.service.XGPushService } U=0: not found
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+6c9ce542,"<*> flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+97aa249b,getNeighboringCellInfo calling app is com.amap.android.ams
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+2528f150,<*>
+6c9ce542,"<*> flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626"
+2528f150,<*>
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2168b16e,"acquire <*> flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+6c9ce542,"<*> flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+97aa249b,getNeighboringCellInfo calling app is com.amap.android.ams
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+2528f150,<*>
+ce1bec83,"[HSM] stayAwake false uid: 10111, pid: 28601"
+09afd369,Pid:28601 MediaPlayer destructor
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+094ea647,Process com.tencent.mobileqq:qzone (pid 12236) has died
+abcb79fe,cleanUpApplicationRecord -- <*>
+a31f9383,Scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService in 1000ms
+6341ccaf,"cleanUpApplicationRecordLocked, pid: <*> restart: false"
+417d2e1d,"cleanUpApplicationRecordLocked, reset pid: <*> euid: 0"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+8076780e,"new Process app=ProcessRecord{6eaaf00 0:com.tencent.mobileqq:qzone/u0a111}, name: com.tencent.mobileqq:qzone, euid: 0"
+92a2268f,Start proc 13003:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService
+6c9f69f4,"ActivityManagerService,attachApplication,callingPid = <*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+8c2915e3,Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+2528f150,<*>
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+52e559cf,"animateCollapsePanels:flags=0, force=false, delayed=false, <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+bc14a64a,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, <*> uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+e973c9dc,"Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], <*> <*> inRotation:[false], rot:[0]"
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+89176649,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }"
+105b5739,"Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }"
+dae4ef73,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+e0820fe8,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", <*> uid=1000, pid=1702"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+6c9f69f4,"ActivityManagerService,attachApplication,callingPid = <*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+b73dcd1b,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+6341ccaf,"cleanUpApplicationRecordLocked, pid: <*> restart: false"
+417d2e1d,"cleanUpApplicationRecordLocked, reset pid: <*> euid: 0"
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+33a3385e,enqueueNotificationInternal: pkg=com.tencent.mobileqq id=121 notification=Notification(pri=1 contentView=null vibrate=[100] sound=null tick defaults=0x0 flags=0x11 color=0x00000000 vis=PRIVATE)
+6985e059,enqueueNotificationInternal: n.getKey = 0|com.tencent.mobileqq|121|null|10111
+2528f150,<*>
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+d4fbd676,<*> <*>
+2528f150,<*>
+e23384fb,disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+6cf305e6,Marking notification as seen 0|com.tencent.mobileqq|121|null|10111
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+484419bb,"START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.android.notepad/.NotePadActivity bnds=[8,820][184,1011]} from uid 10057 on display 0"
+78dc25e9,"ActivityRecord info: ActivityInfo{f39182 com.example.android.notepad.NotePadActivity}, euid: 0"
+bc14a64a,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, <*> uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+68ca9762,<*> last=0); user=0 USER_ROTATION_LOCKED
+ac30ee86,Application requested orientation <*> got rotation 0 which has compatible metrics
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+89176649,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }"
+105b5739,"Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }"
+dae4ef73,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+e0820fe8,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", <*> uid=1000, pid=1702"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+84bdbffe,"ACTIVITY check resid: com.example.android.notepad, <*>"
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+c98ac076,disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+551f9cae,Destroying surface Surface(name=PopupWindow:6ac503e) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.WindowStateAnimator.finishExit:590 com.android.server.wm.WindowStateAnimator.stepAnimationLocked:516 com.android.server.wm.WindowAnimator.updateWindowsLocked:311 com.android.server.wm.WindowAnimator.animateLocked:738
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+6c9f69f4,"ActivityManagerService,attachApplication,callingPid = <*>"
+8c2915e3,Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105
+84bdbffe,"ACTIVITY check resid: com.example.android.notepad, <*>"
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+d4fbd676,<*> <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+d4fbd676,<*> <*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+2528f150,<*>
+52e559cf,"animateCollapsePanels:flags=0, force=false, delayed=false, <*>"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+bc14a64a,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, <*> uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+68ca9762,<*> last=0); user=0 USER_ROTATION_LOCKED
+ac30ee86,Application requested orientation <*> got rotation 0 which has compatible metrics
+e973c9dc,"Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], <*> <*> inRotation:[false], rot:[0]"
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+89176649,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }"
+105b5739,"Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }"
+dae4ef73,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+e0820fe8,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", <*> uid=1000, pid=1702"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+b73dcd1b,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+b73dcd1b,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+52e559cf,"animateCollapsePanels:flags=0, force=false, delayed=false, <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+1949abd5,"START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mobileqq/.activity.SplashActivity bnds=[360,820][536,1011]} from uid 10057 on display 0"
+e074695e,"ActivityRecord info: <*> com.tencent.mobileqq.activity.SplashActivity}, euid: 0"
+bc14a64a,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, <*> uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+89176649,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }"
+105b5739,"Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }"
+dae4ef73,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+299ebcc9,"cancelNotification,cancelNotificationLocked,callingUid = <*> = <*>"
+41a4e3e1,"cancelNotificationLocked called,tell the app,reason = <*>"
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+d4fbd676,<*> <*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+2528f150,<*>
+52e559cf,"animateCollapsePanels:flags=0, force=false, delayed=false, <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+e0820fe8,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", <*> uid=1000, pid=1702"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+a333ec45,"cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+c92a5da0,getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+c92a5da0,getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+0700268e,getCellLocation is blocked by permission manager uid:10111 pid:28601
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+c92a5da0,getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+103cce8d,"sending alarm <*> type 3 when <*> PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+8217ec4a,Received TIME_TICK alarm; rescheduling
+cea3f996,scheduleTimeTickEvent triggerAtTime = <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+82785916,received broadcast android.intent.action.TIME_TICK
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+414357d5,"acquire <*> flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0"
+2528f150,<*>
+414357d5,"acquire <*> flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0"
+2528f150,<*>
+414357d5,"acquire <*> flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0"
+2528f150,<*>
+414357d5,"acquire <*> flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0"
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+f1126941,"setDataSource(166, 0, 576460752303423487)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+ca0e98b4,getStreamVolume  treamType: 5
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+9bf63e69,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+8c2915e3,Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+a1fd7bde,"updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=0, mPlugType=0, mBatteryLevel=23"
+690a3c43,received broadcast android.intent.action.BATTERY_CHANGED
+a2cf21d5,ACTION_BATTERY_CHANGED AMP: 0; Volt: 0
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+8417df16,ACTION_BATTERY_CHANGED pluggedType: 0
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+84ff7c58,battery changed pluggedType: 0
+c45da63c,RefreshBatteryInfo isBatteryLow: 23
+896b1093,ChargingSpeed  Wattage: -1 ST: 5000000 --> 7500000
+2528f150,<*>
+c45da63c,RefreshBatteryInfo isBatteryLow: 23
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+b0800b30,"<*> flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0"
+2528f150,<*>
+b0800b30,"<*> flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0"
+2528f150,<*>
+b0800b30,"<*> flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0"
+2528f150,<*>
+b0800b30,"<*> flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+b219dedc,interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false
+e0e6ee2e,"interceptKeyBeforeQueueing: key <*> , result : 1"
+2528f150,<*>
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+52e559cf,"animateCollapsePanels:flags=0, force=false, delayed=false, <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+bc14a64a,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, <*> uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+e973c9dc,"Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], <*> <*> inRotation:[false], rot:[0]"
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+89176649,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }"
+105b5739,"Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }"
+dae4ef73,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+1c12a559,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+e0820fe8,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", <*> uid=1000, pid=1702"
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+6a4daa2e,enqueueNotificationInternal: pkg=com.tencent.mm id=4097 notification=Notification(pri=1 contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x101 color=0x00000000 category=msg vis=PRIVATE)
+13b8d39f,enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+d4fbd676,<*> <*>
+2528f150,<*>
+e23384fb,disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+c835835b,Marking notification as seen 0|com.tencent.mm|4097|null|10112
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+d4fbd676,<*> <*>
+b73dcd1b,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+aa25e6e5,"sending alarm Alarm{2741459 type 3 when 509267844 PendingIntent{f75f81e: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+2528f150,<*>
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+964515bc,userActivityNoUpdateLocked: <*> <*> <*> uid=1000
+2528f150,<*>
+5c7dfbc9,"onInterceptTouchEvent MotionEvent { <*> actionButton=0, id[0]=0, <*> <*> toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, <*> <*> deviceId=3, source=0x1002 }, mBlockTouches=false"
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+5c7dfbc9,"onInterceptTouchEvent MotionEvent { <*> actionButton=0, id[0]=0, <*> <*> toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, <*> <*> deviceId=3, source=0x1002 }, mBlockTouches=false"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+ae383dd0,playSoundEffect effectType: 0
+2528f150,<*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+a6227493,"animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+6fae6a92,START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0
+25306ed1,"ActivityRecord info: ActivityInfo{80c2e70 com.tencent.mm.ui.LauncherUI}, euid: 0"
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+4a8e2216,updateNotificationShade: <*> <*>
+2528f150,<*>
+2528f150,<*>
+527b4027,startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) }
+2528f150,<*>
+c98ac076,disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+f18d42d6,"<*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>"
+d4fbd676,<*> <*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+d4fbd676,<*> <*>
+bc14a64a,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, <*> uid=1000, pid=1702"
+2528f150,<*>
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+d4fbd676,<*> <*>
+2528f150,<*>
+c34d2ca2,applyOptionsLocked: Unknown animationType=0
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+89176649,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }"
+105b5739,"Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }"
+dae4ef73,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+c4a8e944,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }"
+939eaab9,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }"
+1327b2ec,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+8d261c03,"updateClipping <*> getTopPadding=333.0, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"
+760b6e78,HBM brightnessIn =38
+df453c32,HBM brightnessOut =38
+0ab33c6b,"Animating brightness: target=38, rate=200"

@@ -1,0 +1,2001 @@
+EventId,EventTemplate
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+5fe6f5c0,check pass; user unknown
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+916a5e92,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+5fe6f5c0,check pass; user unknown
+51cb9a4f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+5fe6f5c0,check pass; user unknown
+51cb9a4f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+5fe6f5c0,check pass; user unknown
+51cb9a4f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+5fe6f5c0,check pass; user unknown
+51cb9a4f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+5fe6f5c0,check pass; user unknown
+51cb9a4f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+526d1887,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+526d1887,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+526d1887,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+526d1887,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+526d1887,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+526d1887,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+526d1887,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+526d1887,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+5fe6f5c0,check pass; user unknown
+23ac3399,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+26c011e3,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+4a643a09,User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+8531a26e,cupsd shutdown succeeded
+1337b824,cupsd startup succeeded
+78996bdd,restart.
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+b6ceef4b,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+2d0bbefa,Received SNMP packet(s) from 67.170.148.126
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+5fe6f5c0,check pass; user unknown
+960ec04a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+5fe6f5c0,check pass; user unknown
+f3d9af11,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+d9ef8c5f,connection from 218.69.108.57 () at Fri Jun 24 <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+5fe6f5c0,check pass; user unknown
+c16a336f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+9155c043,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+8531a26e,cupsd shutdown succeeded
+1337b824,cupsd startup succeeded
+78996bdd,restart.
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+470ca136,connection from 61.74.96.178 () at Wed Jun 29 <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+c6714dbe,connection from 208.62.55.75 () at Wed Jun 29 <*> 2005
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+d12f51c9,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+d12f51c9,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+d12f51c9,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+d12f51c9,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+d12f51c9,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+d12f51c9,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+d12f51c9,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+c58c01ed,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+7fe2186b,Kerberos authentication failed
+c58c01ed,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+7fe2186b,Kerberos authentication failed
+c58c01ed,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+7fe2186b,Kerberos authentication failed
+c58c01ed,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+7fe2186b,Kerberos authentication failed
+c58c01ed,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+7fe2186b,Kerberos authentication failed
+c58c01ed,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+7fe2186b,Kerberos authentication failed
+c58c01ed,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+c58c01ed,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+7fe2186b,Kerberos authentication failed
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+a3d16920,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+7fe2186b,Kerberos authentication failed
+7fe2186b,Kerberos authentication failed
+7fe2186b,Kerberos authentication failed
+7fe2186b,Kerberos authentication failed
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+89b60090,connection from 202.82.200.188 () at Fri Jul 1 07:57:30 2005
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+8531a26e,cupsd shutdown succeeded
+1337b824,cupsd startup succeeded
+78996bdd,restart.
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+05f27c8c,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul 3 23:16:09 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+f806870d,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul 4 12:52:44 2005
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+2c624e45,connection from 211.72.2.106 () at Tue Jul 5 <*> 2005
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+0c4ed6cb,*** info [mice.c(1766)]:
+6281818e,imps2: Auto-detected intellimouse PS/2
+91036a8b,session opened for user root by LOGIN(uid=0)
+4b9338f6,ROOT LOGIN ON tty2
+e67290aa,session closed for user root
+b4e20944,removing device node <*>
+b4e20944,removing device node <*>
+6e31eca4,creating device node <*>
+6e31eca4,creating device node <*>
+b4e20944,removing device node <*>
+b4e20944,removing device node <*>
+6e31eca4,creating device node <*>
+6e31eca4,creating device node <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+b22b0060,connection from 202.82.200.188 () at Thu Jul 7 16:33:52 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+95b3ee04,connection from 221.4.102.93 () at Thu Jul 7 <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+c3b22094,connection from 211.57.88.250 () at Sat Jul 9 11:35:59 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+9a427e46,connection from 81.171.220.226 () at Sat Jul 9 <*> 2005
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+9ffa0775,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul 9 <*> 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+e9f90500,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+8531a26e,cupsd shutdown succeeded
+1337b824,cupsd startup succeeded
+78996bdd,restart.
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+e733a179,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+cd0472bf,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+deeea6a1,authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=
+6444ea09,Couldn't authenticate user
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+067f1362,session opened for user test by (uid=509)
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+0a3367cc,session closed for user test
+067f1362,session opened for user test by (uid=509)
+0a3367cc,session closed for user test
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+ff95bbec,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+8531a26e,cupsd shutdown succeeded
+1337b824,cupsd startup succeeded
+78996bdd,restart.
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+eb4a7567,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+855e02f6,connection from 210.245.165.136 () at <*> <*> <*> <*> 2005
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+3199eab7,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+a8171768,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+d682082e,connection from <*> <*> at <*> Jul <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+5fe6f5c0,check pass; user unknown
+f1aceb50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+12a0d651,connection from <*> () at <*> Jul <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+d7e5dd6b,"ANONYMOUS FTP LOGIN FROM 84.102.20.2, (anonymous)"
+d7e5dd6b,"ANONYMOUS FTP LOGIN FROM 84.102.20.2, (anonymous)"
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+8531a26e,cupsd shutdown succeeded
+1337b824,cupsd startup succeeded
+78996bdd,restart.
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+1c457f3a,connection from 211.107.232.1 () at <*> Jul <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+aec4de61,notify question section contains no SOA
+a45f76b2,getpeername (ftpd): Transport endpoint is not connected
+a45f76b2,getpeername (ftpd): Transport endpoint is not connected
+44330be5,warning: can't get client address: Connection reset by peer
+a45f76b2,getpeername (ftpd): Transport endpoint is not connected
+44330be5,warning: can't get client address: Connection reset by peer
+a45f76b2,getpeername (ftpd): Transport endpoint is not connected
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+65ee854d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> user=root
+006d0aa5,session opened for user cyrus by (uid=0)
+836fc242,session closed for user cyrus
+f1f7711d,ALERT exited abnormally with [1]
+f032b772,session opened for user news by (uid=0)
+966b8761,session closed for user news
+6f750a44,connection from <*> () at <*> <*> <*> <*> 2005
+78996bdd,restart.
+e2e2f763,syslogd startup succeeded
+f926f5ed,"klogd 1.4.1, log source = /proc/kmsg started."
+71cf6c67,Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
+5cb4dcf4,BIOS-provided physical RAM map:
+8068dec7,BIOS-e820: <*> - <*> (usable)
+b7b15ba5,BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+8068dec7,BIOS-e820: <*> - <*> (usable)
+a80de0be,BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved)
+f0715417,BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved)
+617c9f65,0MB HIGHMEM available.
+70d0b7b3,126MB LOWMEM available.
+4475646e,zapping low mappings.
+c4abea2c,klogd startup succeeded
+89e41320,On node 0 totalpages: 32430
+de566a4c,"DMA zone: 4096 pages, LIFO batch:1"
+23d512cf,"Normal zone: 28334 pages, LIFO batch:6"
+85a83e6b,irqbalance startup succeeded
+f81bd90d,"HighMem zone: 0 pages, LIFO batch:1"
+c8fb83f1,DMI 2.3 present.
+068fbf46,ACPI disabled because your bios is from 2000 and too old
+06e4070c,You can enable it with acpi=force
+ce85852a,Built 1 zonelists
+6bcffc16,Kernel command line: ro root=LABEL=/ rhgb quiet
+867e70a6,mapped 4G/4G trampoline to ffff3000.
+11ffa6be,Initializing CPU#0
+ae392113,"CPU 0 irqstacks, hard=02345000 soft=02344000"
+e052d25e,portmap startup succeeded
+911f3f5b,PID hash table entries: 512 (order 9: 4096 bytes)
+b620323e,Detected 731.219 MHz processor.
+72d065cb,Version 1.0.6 Starting
+2cacc501,Using tsc for high-res timesource
+08cb21a6,rpc.statd startup succeeded
+75194edc,Console: colour VGA+ 80x25
+b7ac2ad4,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)"
+ca5fb46d,Calibrating delay loop... 1445.88 BogoMIPS
+625bc432,Security Scaffold v1.0.0 initialized
+826815a8,SELinux:  Initializing.
+6f678395,SELinux:  Starting in permissive mode
+92f38af7,"There is already a security framework initialized, register_security failed."
+f4531fe0,Failure registering capabilities with the kernel
+3c1edb89,selinux_register_security:  Registering secondary module capability
+995ee000,Capability LSM initialized
+d77fb1e6,rpc.idmapd startup succeeded
+c652c002,"Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)"
+d84d0c25,"Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)"
+500a6615,"Mount-cache hash table entries: 512 (order: 0, 4096 bytes)"
+33127630,"CPU: L1 I cache: 16K, L1 D cache: 16K"
+875bf9ed,CPU: L2 cache: 256K
+3797c3f8,Intel machine check architecture supported.
+e47ddd81,Intel machine check reporting enabled on CPU#0.
+8f3f5cf7,CPU: Intel Pentium III (Coppermine) stepping 06
+6840ff9f,Enabling fast FPU save and restore... done.
+8d0b0805,Enabling unmasked SIMD FPU exception support... done.
+8177bcff,Checking 'hlt' instruction... OK.
+d2b20224,Initializing random number generator:  succeeded
+cb7aa6e4,POSIX conformance testing by UNIFIX
+f7406429,NET: Registered protocol family 16
+8630412f,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1"
+05be387f,PCI: Using configuration type 1
+cd4d7a6f,mtrr: v2.0 (20020519)
+ca5bfdc0,ACPI: Subsystem revision 20040326
+51836d0d,ACPI: Interpreter disabled.
+91511598,Linux Plug and Play Support v0.97 (c) Adam Belay
+0955dbdb,Starting pcmcia:  succeeded
+e2676b36,usbcore: registered new driver usbfs
+b6cc1138,usbcore: registered new driver hub
+dbbbedfa,ACPI: ACPI tables contain no PCI IRQ routing entries
+dce3be49,PCI: Invalid ACPI-PCI IRQ routing table
+01e69759,PCI: Probing PCI hardware
+f6612193,PCI: Probing PCI hardware (bus 00)
+0c202b29,Transparent bridge - 0000:00:1e.0
+0eb41a64,PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0
+6927be79,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)
+e3816864,audit: initializing netlink socket (disabled)
+6686ef46,kernel.core_uses_pid = 1
+b965288c,HCI daemon ver 2.4 started
+ec34de39,hcid startup succeeded
+d0e853c1,audit(1122475266.4294965305:0): initialized
+e46f7bf0,Setting network parameters:  succeeded
+907541ab,sdpd startup succeeded
+8d811927,sdpd v1.5 started
+add074a6,"Total HugeTLB memory allocated, 0"
+175e7b5c,Bringing up loopback interface:  succeeded
+8ec80336,VFS: Disk quotas dquot_6.5.1
+53afafca,"Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)"
+b15a41d5,SELinux:  Registering netfilter hooks
+d6bd2fc9,Initializing Cryptographic API
+2a4a45de,pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+7681522b,isapnp: Scanning for PnP cards...
+f73b80ae,isapnp: No Plug & Play device found
+18c74772,Real Time Clock Driver v1.12
+f644054b,Linux agpgart interface v0.100 (c) Dave Jones

@@ -1,0 +1,111 @@
+Log Template,Occurrences
+reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!,2
+Invalid user webmaster from 173.234.31.186,2
+input_userauth_request: invalid user <*> [preauth],61
+pam_unix(sshd:auth): check pass; user unknown,135
+pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>,107
+Failed password for invalid user webmaster from 173.234.31.186 port <*> ssh2,2
+Connection closed by 173.234.31.186 [preauth],2
+Connection closed by 212.47.254.145 [preauth],1
+Invalid user <*> from 52.80.34.196,5
+input_userauth_request: invalid user <*> [preauth],52
+pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ec2-52-80-34-196.cn-north-1.compute.amazonaws.com.cn,1
+Failed password for invalid user <*> from 52.80.34.196 port 36060 ssh2,4
+Received disconnect from 52.80.34.196: 11: Bye Bye [preauth],5
+Invalid user <*> from 202.100.179.208,2
+pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>,2
+Failed password for invalid user <*> from 202.100.179.208 port <*> ssh2,2
+Received disconnect from 202.100.179.208: 11: Bye Bye [preauth],2
+pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,1
+Failed password for root from 5.36.59.76 port 42393 ssh2,1
+message repeated 5 times: [ Failed password for root from 5.36.59.76 port 42393 ssh2],1
+Disconnecting: Too many authentication failures for <*> [preauth],3
+PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,1
+PAM service(sshd) ignoring max retries; <*> > 3,7
+pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*> <*>,383
+Failed password for root from 112.95.230.3 port <*> ssh2,24
+Received disconnect from 112.95.230.3: 11: Bye Bye [preauth],26
+Invalid user pgadmin from 112.95.230.3,1
+Failed password for invalid user pgadmin from 112.95.230.3 port 54087 ssh2,1
+Invalid user utsims from 112.95.230.3,1
+Failed password for invalid user utsims from 112.95.230.3 port 41506 ssh2,1
+Failed password for root from 123.235.32.19 port <*> ssh2,7
+Received disconnect from 123.235.32.19: 11: Bye Bye [preauth],7
+Did not receive identification string from <*>,3
+Did not receive identification string from 177.79.82.136,1
+Invalid user inspur from 183.136.162.51,2
+Failed password for invalid user inspur from 183.136.162.51 port <*> ssh2,2
+Received disconnect from 183.136.162.51: 11: Bye Bye [preauth],2
+reverse mapping checking getaddrinfo for 191-210-223-172.user.vivozap.com.br [191.210.223.172] failed - POSSIBLE BREAK-IN ATTEMPT!,1
+Failed password for root from 191.210.223.172 port 31473 ssh2,1
+Connection closed by 191.210.223.172 [preauth],1
+Did not receive identification string from 195.154.37.122,1
+reverse mapping checking getaddrinfo for 195-154-37-122.rev.poneytelecom.eu [195.154.37.122] failed - POSSIBLE BREAK-IN ATTEMPT!,2
+Invalid user support from 195.154.37.122,1
+Failed password for invalid user support from 195.154.37.122 port 56539 ssh2,1
+error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth],2
+Failed password for uucp from 195.154.37.122 port 59266 ssh2,1
+Connection closed by 194.190.163.22 [preauth],4
+Did not receive identification string from <*>,4
+Invalid user support from <*>,5
+Failed password for invalid user <*> from <*> port <*> ssh2,103
+Received disconnect from <*> 11: Closed due to user request. [preauth],7
+Invalid user inspur from 175.102.13.6,1
+Failed password for invalid user inspur from 175.102.13.6 port 47130 ssh2,1
+Received disconnect from 175.102.13.6: 11: Bye Bye [preauth],1
+Invalid user <*> from 5.188.10.180,9
+Failed password for invalid user  0101 from 5.188.10.180 port 36279 ssh2,1
+Connection closed by 5.188.10.180 [preauth],11
+Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2,1
+Failed <*> for invalid user <*> from <*> port <*> ssh2,20
+PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= <*>,8
+Failed password for ftp from 5.188.10.180 port 54715 ssh2,1
+Did not receive identification string from 5.188.10.180,1
+Failed password for uucp from 103.207.39.212 port 51528 ssh2,1
+Invalid user admin from <*>,6
+Failed password for root from 106.5.5.195 port 50719 ssh2,1
+message repeated 5 times: [ Failed password for root from 106.5.5.195 port 50719 ssh2],1
+PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.5.5.195  user=root,1
+Invalid user <*> from 185.190.58.151,7
+Connection closed by 185.190.58.151 [preauth],7
+Invalid user admin from 103.99.0.122,7
+error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],45
+Invalid user <*> from 103.99.0.122,21
+Failed password for <*> from 103.99.0.122 port <*> ssh2,11
+Invalid user 1234 from 103.99.0.122,1
+Invalid user anonymous from 103.99.0.122,1
+reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,80
+Failed password for <*> from 187.141.143.180 port <*> ssh2,51
+Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],80
+Invalid user eoor from 187.141.143.180,1
+Invalid user butter from 187.141.143.180,1
+Invalid user redhat from 187.141.143.180,1
+Invalid user <*> from 187.141.143.180,13
+Invalid user <*> from 187.141.143.180,2
+Invalid user <*> from 187.141.143.180,2
+Invalid user <*> from 187.141.143.180,9
+Failed password for uucp from 103.207.39.16 port 42435 ssh2,1
+Invalid user FILTER from 104.192.3.34,1
+Received disconnect from 104.192.3.34: 11: Bye Bye [preauth],1
+Failed password for root from 104.192.3.34 port 56524 ssh2,1
+Connection closed by 104.192.3.34 [preauth],1
+Accepted password for fztu from 119.137.62.142 port 49116 ssh2,1
+pam_unix(sshd:session): session opened for user fztu by (uid=0),1
+Received disconnect from 119.137.62.142: 11: disconnected by user,1
+pam_unix(sshd:session): session closed for user fztu,1
+Invalid user 0 from 181.214.87.4,1
+Connection closed by 181.214.87.4 [preauth],1
+Failed password for root from 60.2.12.12 port <*> ssh2,5
+Received disconnect from 60.2.12.12: 11: Bye Bye [preauth],4
+Connection closed by 60.2.12.12 [preauth],1
+Connection closed by 1.237.174.253 [preauth],3
+Connection closed by 88.147.143.242 [preauth],2
+Invalid user zhangyan from 183.62.140.253,1
+Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],285
+Invalid user <*> from 183.62.140.253,2
+Failed password for <*> from 183.62.140.253 port <*> ssh2,277
+Invalid user oracle from 183.62.140.253,2
+Invalid user <*> from 183.62.140.253,3
+Invalid user ubuntu from 183.62.140.253,1
+Invalid user sandeep from 88.147.143.242,1
+fatal: Write failed: Connection reset by peer [preauth],1

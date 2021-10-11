@@ -1,0 +1,40 @@
+Log Template,Occurrences
+"Registered signal handlers for [TERM, HUP, INT]",1
+"Changing view acls to: yarn,curi",2
+"Changing modify acls to: yarn,curi",2
+"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",2
+Slf4jLogger started,1
+Starting remoting,1
+Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],1
+Successfully started service 'sparkExecutorActorSystem' on port 55904.,1
+Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+MemoryStore started with capacity 17.7 GB,1
+Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069,1
+Successfully registered with driver,1
+Starting executor ID 5 on host mesos-slave-07,1
+Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40984.,1
+Server created on 40984,1
+Trying to register BlockManager,1
+Registered BlockManager,1
+Got assigned task <*>,305
+Running task <*> in stage <*> (TID <*>,305
+Started reading broadcast variable <*>,37
+Block <*> stored as <*> in memory (estimated size <*> <*> free <*> KB),146
+Reading broadcast variable <*> took <*> ms,37
+Block <*> stored as <*> in memory (estimated size <*> <*> free <*> KB),3
+"Partition <*> not found, computing it",75
+Input split: <*>,45
+"mapred.tip.id is deprecated. Instead, use mapreduce.task.id",1
+"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id",1
+"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap",1
+"mapred.job.id is deprecated. Instead, use mapreduce.job.id",1
+"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition",1
+Times: total = <*> boot = <*> init = <*> finish = <*>,371
+"Times: total = 1114, boot = 885, init = 223, finish = 6",1
+Times: total = <*> boot = <*> init = <*> finish = <*>,3
+Finished task <*> in stage <*> (TID <*> <*> bytes result sent to driver,300
+Found block <*> locally,257
+File Output Committer Algorithm version is 1,30
+Saved output of task <*> to <*>,30
+<*> Committed,28
+<*> Committed,2
