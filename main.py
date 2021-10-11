@@ -182,6 +182,7 @@ def process_file(file_name):
     filepath = data + file_name
     dataNewDataframe = [] # Storing all the value to required from CSV file to convert into JSON
     logsClusterDict = {} #Create dictionary for logs -> clusterId
+    logsTemplateDict = {} # Create disctonary for logs -> LogTemplate
     with open(filepath) as csv_file:
         reader = csv.DictReader(csv_file)
         keyword_clusters, log_clusters = create_clusters(reader)
@@ -190,23 +191,26 @@ def process_file(file_name):
         for clusterID in range(len(log_clusters)):
             for logID in range(len(log_clusters[clusterID].logs)):
                 logsClusterDict[log_clusters[clusterID].logs[logID]] = clusterID+1
-
-    # Reading file again to prepare final JSON output            
+                logsTemplateDict[log_clusters[clusterID].logs[logID]] = log_clusters[clusterID].log_template
+    
+    print(logsTemplateDict)
+    # Reading file again to prepare final JSON output   
     with open(filepath) as csv_file:
         reader = csv.DictReader(csv_file)
         for row in reader:
             log = row['Content']
             clusterId = logsClusterDict[log]
+            logTemplate = logsTemplateDict[log]
             dataNewDataframe.append({'Line ID':row['LineId'], 
-                                     'Structured Log':log ,
+                                     'Structured Log':logTemplate,
                                      'Date': row['Date'],
                                      'Time':row['Time'],
                                      'Content':row['Content'],
                                      'Belongs to which cluster':clusterId,})
             
     newDataframe = pd.DataFrame(dataNewDataframe)
-    #print(newDataframe)
-    newDataframe.to_json('demo.json', orient='records', lines=True)
+    # print(newDataframe)
+    newDataframe.to_json('temp.json', orient='records', lines=True)
    
         # Print out keyword and log clusters
         # print('Keyword Clusters\n==============\n')
