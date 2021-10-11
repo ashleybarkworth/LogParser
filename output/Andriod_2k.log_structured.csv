@@ -1,0 +1,2001 @@
+EventId,EventTemplate
+64301583,"printFreezingDisplayLogsopening app wtoken = AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>/.<*> t761}}}, allDrawn= false, startingDisplayed =  false, startingMoved =  false, isRelaunching =  false"
+3775c1bb,"acquire lock=<*>, flags=<*>, tag=""View Lock"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+4df8084d,Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*> t761}}} -- going to hide
+b50b5c83,visible is <*>
+5c6b423a,mVisiblity.getValue is false
+b50b5c83,visible is <*>
+5c6b423a,mVisiblity.getValue is false
+6c4a7d49,visible is <*> gt <*>
+5c6b423a,mVisiblity.getValue is false
+6c4a7d49,visible is <*> gt <*>
+5c6b423a,mVisiblity.getValue is false
+b50b5c83,visible is <*>
+5c6b423a,mVisiblity.getValue is false
+f38023d3,"release:lock=<*>, flg=<*>, tag=""View Lock"", name=<*>"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+4df8084d,Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*> t761}}} -- going to hide
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+10a9d4b7,"release:lock=<*>, flg=<*>, tag=""*launch*"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+0e53d7e5,Destroying surface Surface(name=SurfaceView - <*><*>.<*>) called by <*>:<*> <*>:<*> <*>:<*> <*>$Stub.onTransact:<*> <*>:<*> <*>:<*> <bottom of call stack> <bottom of call stack>
+d64cb0d3,Destroying surface Surface(name=<*><*>.<*>) called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>$Stub.onTransact:<*> <*>:<*>
+0ce18e64,"release:lock=<*>, flg=<*>, tag=""WindowManager"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+f80ee7b9,"orientation change is complete, call stopFreezingDisplayLocked"
+f6471724,Screen frozen for +1s0ms due to Window{<*> u0 <*><*>.<*>}
+2be87b23,startAnimation begin
+4c358bbd,startAnimation end
+82b011f2,"release:lock=<*>, flg=<*>, tag=""SCREEN_FROZEN"", name=android"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+5636448e,remove(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) changed bounds; rebatching
+6e499fe7,<*> last=<*>); user=<*> USER_ROTATION_LOCKED
+bc89de9b,Application requested orientation <*> got rotation <*> which has compatible metrics
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+9b741bff,getNeighboringCellInfo calling app is <*>
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2e398769,"release:lock=<*>, flg=<*>, tag=""RILJ_ACK_WL"", name=<*>"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+5c6214c5,"release:lock=<*>, flg=<*>, tag=""AudioMix"", name=audioserver"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+e5d03fc8,suspendAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+93d619b5,resumeSuspendedAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+01f8736c,querySoundEffectsEnabled...
+0877714e,"acquire lock=<*>, flags=<*>, tag=""*launch*"", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+4df8084d,Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*> t761}}} -- going to hide
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+ce102768,Bad activity token: <*>@<*>
+4ae900e2,<*>: <*> cannot be cast to <*>$Token
+4df8084d,Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*> t761}}} -- going to hide
+10a9d4b7,"release:lock=<*>, flg=<*>, tag=""*launch*"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+e5d03fc8,suspendAutohide
+e5d03fc8,suspendAutohide
+3db7322e,"onTouchEvent::<*>, x=<*>.<*>, y=<*>.<*>"
+278bbeeb,schedulePeek
+e684be4d,getRingtonePlayer...
+e23384fb,disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+e5d03fc8,suspendAutohide
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+e684be4d,getRingtonePlayer...
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+e5d03fc8,suspendAutohide
+b48be571,onExpandingStarted
+e5d03fc8,suspendAutohide
+e5ea7ae2,onTrackingStarted
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+e5d03fc8,suspendAutohide
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e5d03fc8,suspendAutohide
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e5d03fc8,suspendAutohide
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e5d03fc8,suspendAutohide
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e5d03fc8,suspendAutohide
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e5d03fc8,suspendAutohide
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e5d03fc8,suspendAutohide
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e5d03fc8,suspendAutohide
+e5d03fc8,suspendAutohide
+3db7322e,"onTouchEvent::<*>, x=<*>.<*>, y=<*>.<*>"
+a1c3cf9d,cancelPeek: false
+75328cc8,"flingToHeight: vel=<*>.<*>, <*> target=<*>.<*>, collapseSpeedUpFactor=<*>.<*>, expandBecauseOfFalsing=false"
+c84240de,onTrackingStopped: true
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+3c9f2e24,onExpandingFinished
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+0a240d91,Sending non-protected broadcast <*> from system <*>:<*><*> pkg <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+fe6af9be,onNotificationVisibilityChanged called
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+37f45231,isSimPinSecure mSimDatas is null or empty
+78ec30c0,registerCallback not in UI.
+af16cb76,<*>: Must execute in UI
+17e44520,*** <*> callback for <*>@<*>
+78ec30c0,registerCallback not in UI.
+af16cb76,<*>: Must execute in UI
+9cd5df64,*** unregister callback for null
+aef178cd,[PhoneIntfMgr] getDataEnabled: subId=<*> phoneId=<*>
+73af3feb,[PhoneIntfMgr] getDataEnabled: subId=<*> retVal=true
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+829bd9d0,"onInterceptTouchEvent MotionEvent { <*> actionButton=<*>, id[<*>]=<*>, x[<*>]=<*>.<*>, y[<*>]=<*>.<*>, toolType[<*>]=TOOL_TYPE_FINGER, buttonState=<*>, metaState=<*>, flags=<*>, edgeFlags=<*>, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=<*> }, mBlockTouches=false"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+829bd9d0,"onInterceptTouchEvent MotionEvent { <*> actionButton=<*>, id[<*>]=<*>, x[<*>]=<*>.<*>, y[<*>]=<*>.<*>, toolType[<*>]=TOOL_TYPE_FINGER, buttonState=<*>, metaState=<*>, flags=<*>, edgeFlags=<*>, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=<*> }, mBlockTouches=false"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+12407b2a,"animateCollapsePanels:flags=<*>, <*> <*> <*>"
+b48be571,onExpandingStarted
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+fe6af9be,onNotificationVisibilityChanged called
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+68525dbc,START u0 {act=<*> flg=<*> cmp=<*>/.activity.SplashActivity (has extras)} from uid <*> on display <*>
+1819392d,"ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>"
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+0877714e,"acquire lock=<*>, flags=<*>, tag=""*launch*"", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+4453aa92,onNotificationClick called
+2528f150,<*>
+15a13397,"cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>"
+41a4e3e1,"cancelNotificationLocked called,tell the app,reason = <*>"
+9310a1fa,cancelNotificationLocked:<*>|<*>|<*>|null|<*>
+d4fbd676,<*> <*>
+cac3547a,applyOptionsLocked: Unknown animationType=<*>
+d4fbd676,<*> <*>
+75328cc8,"flingToHeight: vel=<*>.<*>, <*> target=<*>.<*>, collapseSpeedUpFactor=<*>.<*>, expandBecauseOfFalsing=false"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+b38bfb84,"Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[false], rot:[<*>]"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+38db71a3,removeNotification:<*>|<*>|<*>|null|<*>
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+12407b2a,"animateCollapsePanels:flags=<*>, <*> <*> <*>"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+8cebc887,setLightsOn(true)
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+08027351,removeNotificationChildren
+3c9f2e24,onExpandingFinished
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+08027351,removeNotificationChildren
+0a240d91,Sending non-protected broadcast <*> from system <*>:<*><*> pkg <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+fdba6e3c,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=tel:xxxxxxxxxxx flg=<*> cmp=<*>/.ChooseSubActivity (has extras) }"
+3a6d78a7,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=file://<*>.apk typ=application<*>.android.package-archive flg=<*> cmp=<*>/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+93d619b5,resumeSuspendedAutohide
+c98ac076,disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+10a9d4b7,"release:lock=<*>, flg=<*>, tag=""*launch*"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+78ec30c0,registerCallback not in UI.
+af16cb76,<*>: Must execute in UI
+17e44520,*** <*> callback for <*>@<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+2528f150,<*>
+6167b85a,"Start dump, calling from : pid=<*>, uid=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+52fde9ac,"acquire lock=<*>, flags=<*>, tag=""WiredAccessoryManager"", name=android, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+211bf339,setWiredDeviceConnectionState type: <*> state: <*>
+c41e0f39,"acquire lock=<*>, flags=<*>, tag=""handleAudioEvent"", name=android, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+211bf339,setWiredDeviceConnectionState type: <*> state: <*>
+a2d1a11f,"release:lock=<*>, flg=<*>, tag=""WiredAccessoryManager"", name=android"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+6c9f69f4,"ActivityManagerService,attachApplication,callingPid = <*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+1cf0a87a,"acquire lock=<*>, flags=<*>, tag=""AudioMix"", name=audioserver, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+60d5867b,"release:lock=<*>, flg=<*>, tag=""handleAudioEvent"", name=android"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+2528f150,<*>
+2528f150,<*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2c4ee2da,getDevicesForStream streamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+2c4ee2da,getDevicesForStream streamType: <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+7b79df2e,getLastAudibleStreamVolume treamType: <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+09b30caf,"cleanUpApplicationRecordLocked, pid: <*>, restart: false"
+ba04edbe,"cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+c3b8bc8c,setSpeakerphoneOn  on: true
+d4fbd676,<*> <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+5c6214c5,"release:lock=<*>, flg=<*>, tag=""AudioMix"", name=audioserver"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+fdb4297b,"sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> android broadcastIntent}}},repeatInterval = <*>,listenerTag =time_tick"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+8217ec4a,Received TIME_TICK alarm; rescheduling
+cea3f996,scheduleTimeTickEvent triggerAtTime = <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+17b69939,received broadcast <*>
+2528f150,<*>
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+9b741bff,getNeighboringCellInfo calling app is <*>
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2e398769,"release:lock=<*>, flg=<*>, tag=""RILJ_ACK_WL"", name=<*>"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+7bfa952c,"sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag <*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+9604b4b7,Killing <*>:<*><*> (adj <*>): empty for 1810s
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+09b30caf,"cleanUpApplicationRecordLocked, pid: <*>, restart: false"
+ba04edbe,"cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+09b30caf,"cleanUpApplicationRecordLocked, pid: <*>, restart: false"
+ba04edbe,"cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+09b30caf,"cleanUpApplicationRecordLocked, pid: <*>, restart: false"
+ba04edbe,"cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+2528f150,<*>
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+7bfa952c,"sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag <*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+8217ec4a,Received TIME_TICK alarm; rescheduling
+cea3f996,scheduleTimeTickEvent triggerAtTime = <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+17b69939,received broadcast <*>
+2528f150,<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+5636448e,remove(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) changed bounds; rebatching
+2e398769,"release:lock=<*>, flg=<*>, tag=""RILJ_ACK_WL"", name=<*>"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+2e398769,"release:lock=<*>, flg=<*>, tag=""RILJ_ACK_WL"", name=<*>"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+9b741bff,getNeighboringCellInfo calling app is <*>
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+7207901d,Unable to start service Intent { act=<*> cmp=<*><*>.<*> } U=<*>: not found
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2e398769,"release:lock=<*>, flg=<*>, tag=""RILJ_ACK_WL"", name=<*>"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+9b741bff,getNeighboringCellInfo calling app is <*>
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2e398769,"release:lock=<*>, flg=<*>, tag=""RILJ_ACK_WL"", name=<*>"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+74567e7f,"acquire lock=<*>, flags=<*>, tag=""RILJ_ACK_WL"", name=<*>, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+2e398769,"release:lock=<*>, flg=<*>, tag=""RILJ_ACK_WL"", name=<*>"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+9b741bff,getNeighboringCellInfo calling app is <*>
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+2528f150,<*>
+5e73a4ba,"[HSM] stayAwake false uid: <*>, pid: <*>"
+740db69c,Pid:<*> MediaPlayer destructor
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+296ee63a,Process <*>:qzone (pid <*>) has died
+abcb79fe,cleanUpApplicationRecord -- <*>
+12fdbc4a,Scheduling restart of crashed service <*><*>.<*> in 1000ms
+09b30caf,"cleanUpApplicationRecordLocked, pid: <*>, restart: false"
+ba04edbe,"cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+57065c4e,"new Process app=ProcessRecord{<*> <*>:<*>:qzone<*>}, name: <*>:qzone, euid: <*>"
+71105243,Start proc <*>:<*>:qzone<*> for service <*><*>.<*>
+6c9f69f4,"ActivityManagerService,attachApplication,callingPid = <*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+e5d03fc8,suspendAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+93d619b5,resumeSuspendedAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+01f8736c,querySoundEffectsEnabled...
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+3191a459,Destroying surface Surface(name=InputMethod) called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>$H.handleMessage:<*> <*>:<*>
+e5d03fc8,suspendAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+93d619b5,resumeSuspendedAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+01f8736c,querySoundEffectsEnabled...
+2528f150,<*>
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+e5d03fc8,suspendAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+93d619b5,resumeSuspendedAutohide
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+01f8736c,querySoundEffectsEnabled...
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+12407b2a,"animateCollapsePanels:flags=<*>, <*> <*> <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+0877714e,"acquire lock=<*>, flags=<*>, tag=""*launch*"", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+b38bfb84,"Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[false], rot:[<*>]"
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+fdba6e3c,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=tel:xxxxxxxxxxx flg=<*> cmp=<*>/.ChooseSubActivity (has extras) }"
+3a6d78a7,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=file://<*>.apk typ=application<*>.android.package-archive flg=<*> cmp=<*>/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+10a9d4b7,"release:lock=<*>, flg=<*>, tag=""*launch*"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+6c9f69f4,"ActivityManagerService,attachApplication,callingPid = <*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+abcb79fe,cleanUpApplicationRecord -- <*>
+09b30caf,"cleanUpApplicationRecordLocked, pid: <*>, restart: false"
+ba04edbe,"cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+326be389,shouldBlockLocation running ...
+0c9dee8a,shouldBlockLocation ret:false
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+c85b5078,enqueueNotificationInternal: pkg=<*> id=<*> notification=Notification(pri=<*> contentView=null vibrate=[<*>] sound=null tick defaults=<*> flags=<*> color=<*> vis=PRIVATE)
+28f4c616,enqueueNotificationInternal: n.getKey = <*>|<*>|<*>|null|<*>
+2528f150,<*>
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+d4fbd676,<*> <*>
+2528f150,<*>
+e23384fb,disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+e5d03fc8,suspendAutohide
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+a123e1ae,Marking notification as seen <*>|<*>|<*>|null|<*>
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+2530e63e,"START u0 {act=<*> cat=[<*>] flg=<*> cmp=<*>/.NotePadActivity bnds=[<*>,<*>][<*>,<*>]} from uid <*> on display <*>"
+1819392d,"ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>"
+0877714e,"acquire lock=<*>, flags=<*>, tag=""*launch*"", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+6e499fe7,<*> last=<*>); user=<*> USER_ROTATION_LOCKED
+bc89de9b,Application requested orientation <*> got rotation <*> which has compatible metrics
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+fdba6e3c,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=tel:xxxxxxxxxxx flg=<*> cmp=<*>/.ChooseSubActivity (has extras) }"
+3a6d78a7,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=file://<*>.apk typ=application<*>.android.package-archive flg=<*> cmp=<*>/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+10a9d4b7,"release:lock=<*>, flg=<*>, tag=""*launch*"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+ce3340fb,"ACTIVITY check resid: <*>, size=<*>"
+2528f150,<*>
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+93d619b5,resumeSuspendedAutohide
+c98ac076,disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+6c9f69f4,"ActivityManagerService,attachApplication,callingPid = <*>"
+3191a459,Destroying surface Surface(name=InputMethod) called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>$H.handleMessage:<*> <*>:<*>
+ce3340fb,"ACTIVITY check resid: <*>, size=<*>"
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+e5d03fc8,suspendAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+93d619b5,resumeSuspendedAutohide
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+01f8736c,querySoundEffectsEnabled...
+12407b2a,"animateCollapsePanels:flags=<*>, <*> <*> <*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+0877714e,"acquire lock=<*>, flags=<*>, tag=""*launch*"", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+6e499fe7,<*> last=<*>); user=<*> USER_ROTATION_LOCKED
+bc89de9b,Application requested orientation <*> got rotation <*> which has compatible metrics
+b38bfb84,"Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[false], rot:[<*>]"
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+fdba6e3c,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=tel:xxxxxxxxxxx flg=<*> cmp=<*>/.ChooseSubActivity (has extras) }"
+3a6d78a7,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=file://<*>.apk typ=application<*>.android.package-archive flg=<*> cmp=<*>/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+10a9d4b7,"release:lock=<*>, flg=<*>, tag=""*launch*"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+e5d03fc8,suspendAutohide
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+93d619b5,resumeSuspendedAutohide
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+01f8736c,querySoundEffectsEnabled...
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+12407b2a,"animateCollapsePanels:flags=<*>, <*> <*> <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+141cc313,"START u0 {act=<*> cat=[<*>] flg=<*> cmp=<*>/.activity.SplashActivity bnds=[<*>,<*>][<*>,<*>]} from uid <*> on display <*>"
+1819392d,"ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>"
+0877714e,"acquire lock=<*>, flags=<*>, tag=""*launch*"", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+fdba6e3c,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=tel:xxxxxxxxxxx flg=<*> cmp=<*>/.ChooseSubActivity (has extras) }"
+3a6d78a7,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=file://<*>.apk typ=application<*>.android.package-archive flg=<*> cmp=<*>/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+15a13397,"cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>"
+41a4e3e1,"cancelNotificationLocked called,tell the app,reason = <*>"
+2528f150,<*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+d4fbd676,<*> <*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+2528f150,<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+2528f150,<*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+326be389,shouldBlockLocation running ...
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+2528f150,<*>
+12407b2a,"animateCollapsePanels:flags=<*>, <*> <*> <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+10a9d4b7,"release:lock=<*>, flg=<*>, tag=""*launch*"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+e5c1f59d,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+c34a9387,getAllCellInfo is blocked by permission manager . callingPackage = <*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+c34a9387,getAllCellInfo is blocked by permission manager . callingPackage = <*>
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+1672e45b,getCellLocation is blocked by permission manager uid:<*> pid:<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+326be389,shouldBlockLocation running ...
+d4fbd676,<*> <*>
+c34a9387,getAllCellInfo is blocked by permission manager . callingPackage = <*>
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+fdb4297b,"sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> android broadcastIntent}}},repeatInterval = <*>,listenerTag =time_tick"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+8217ec4a,Received TIME_TICK alarm; rescheduling
+cea3f996,scheduleTimeTickEvent triggerAtTime = <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+17b69939,received broadcast <*>
+2528f150,<*>
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+1cf0a87a,"acquire lock=<*>, flags=<*>, tag=""AudioMix"", name=audioserver, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+1cf0a87a,"acquire lock=<*>, flags=<*>, tag=""AudioMix"", name=audioserver, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+1cf0a87a,"acquire lock=<*>, flags=<*>, tag=""AudioMix"", name=audioserver, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+1cf0a87a,"acquire lock=<*>, flags=<*>, tag=""AudioMix"", name=audioserver, ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+dbf935de,"setDataSource(<*>, <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+f03bc06c,getStreamVolume  treamType: <*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+3191a459,Destroying surface Surface(name=InputMethod) called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>$H.handleMessage:<*> <*>:<*>
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+6d2fae8b,"updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=<*>, mPlugType=<*>, mBatteryLevel=<*>"
+17b69939,received broadcast <*>
+290aadd9,ACTION_BATTERY_CHANGED AMP: <*>; Volt: <*>
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+63448bf6,ACTION_BATTERY_CHANGED pluggedType: <*>
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+e33d8eed,battery changed pluggedType: <*>
+b3666231,RefreshBatteryInfo isBatteryLow: <*>
+02db5639,ChargingSpeed  Wattage: -<*> ST: <*> --> <*>
+2528f150,<*>
+b3666231,RefreshBatteryInfo isBatteryLow: <*>
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+5c6214c5,"release:lock=<*>, flg=<*>, tag=""AudioMix"", name=audioserver"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+5c6214c5,"release:lock=<*>, flg=<*>, tag=""AudioMix"", name=audioserver"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+5c6214c5,"release:lock=<*>, flg=<*>, tag=""AudioMix"", name=audioserver"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+5c6214c5,"release:lock=<*>, flg=<*>, tag=""AudioMix"", name=audioserver"", ws=null, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+e5d03fc8,suspendAutohide
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+93d619b5,resumeSuspendedAutohide
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0e4edbd9,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=<*> down <*> canceled false
+51d3963a,"interceptKeyBeforeQueueing: key <*> , result : <*>"
+01f8736c,querySoundEffectsEnabled...
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+12407b2a,"animateCollapsePanels:flags=<*>, <*> <*> <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+0877714e,"acquire lock=<*>, flags=<*>, tag=""*launch*"", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+2528f150,<*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+b38bfb84,"Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[false], rot:[<*>]"
+e7985a59,The change in focus caused us to need to do a layout <*>
+e7985a59,The change in focus caused us to need to do a layout <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+fdba6e3c,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=tel:xxxxxxxxxxx flg=<*> cmp=<*>/.ChooseSubActivity (has extras) }"
+3a6d78a7,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=file://<*>.apk typ=application<*>.android.package-archive flg=<*> cmp=<*>/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+113077ce,"setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+382028dc,cancelAutohide
+1b95fefb,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+2528f150,<*>
+10a9d4b7,"release:lock=<*>, flg=<*>, tag=""*launch*"", name=android"", ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+f97edfd8,enqueueNotificationInternal: pkg=<*> id=<*> notification=Notification(pri=<*> contentView=null vibrate=[] sound=null tick defaults=<*> flags=<*> color=<*> category=msg vis=PRIVATE)
+28f4c616,enqueueNotificationInternal: n.getKey = <*>|<*>|<*>|null|<*>
+e8dd9259,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>"
+7ff909c5,"updateLightsLocked,turn off notificationLight"
+d4fbd676,<*> <*>
+2528f150,<*>
+e23384fb,disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+e5d03fc8,suspendAutohide
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+a123e1ae,Marking notification as seen <*>|<*>|<*>|null|<*>
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+d4fbd676,<*> <*>
+4326f0f1,Destroying surface <*> called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+5f0b1c9f,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+7bfa952c,"sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag <*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+56eb34bf,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+09c65893,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+829bd9d0,"onInterceptTouchEvent MotionEvent { <*> actionButton=<*>, id[<*>]=<*>, x[<*>]=<*>.<*>, y[<*>]=<*>.<*>, toolType[<*>]=TOOL_TYPE_FINGER, buttonState=<*>, metaState=<*>, flags=<*>, edgeFlags=<*>, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=<*> }, mBlockTouches=false"
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+829bd9d0,"onInterceptTouchEvent MotionEvent { <*> actionButton=<*>, id[<*>]=<*>, x[<*>]=<*>.<*>, y[<*>]=<*>.<*>, toolType[<*>]=TOOL_TYPE_FINGER, buttonState=<*>, metaState=<*>, flags=<*>, edgeFlags=<*>, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=<*> }, mBlockTouches=false"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+32c3077e,playSoundEffect effectType: <*>
+01f8736c,querySoundEffectsEnabled...
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+12407b2a,"animateCollapsePanels:flags=<*>, <*> <*> <*>"
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+d4fbd676,<*> <*>
+3efb5d4f,logNotificationVisibilityChanges runInThread <*>
+899b9702,START u0 {flg=<*> cmp=<*>/.ui.LauncherUI (has extras)} from uid <*> on display <*>
+1819392d,"ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>"
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+2528f150,<*>
+d4fbd676,<*> <*>
+95811169,"updateNotificationShade: total=<*>, active=<*>"
+2528f150,<*>
+2528f150,<*>
+af0f00f0,startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=<*> cmp=<*>/.ui.LauncherUI (has extras) }
+93d619b5,resumeSuspendedAutohide
+c98ac076,disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+9a2c9b52,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>"
+d4fbd676,<*> <*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+d4fbd676,<*> <*>
+0877714e,"acquire lock=<*>, flags=<*>, tag=""*launch*"", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>"
+79c5193f,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>"
+0a6ddfe4,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+d4fbd676,<*> <*>
+2528f150,<*>
+cac3547a,applyOptionsLocked: Unknown animationType=<*>
+f7fafbb3,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+fdba6e3c,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=tel:xxxxxxxxxxx flg=<*> cmp=<*>/.ChooseSubActivity (has extras) }"
+3a6d78a7,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=file://<*>.apk typ=application<*>.android.package-archive flg=<*> cmp=<*>/.PackageInstallerActivity (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+6b85c8a6,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }"
+9a15396e,"Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*>/.InCallActivity (has extras) }"
+e6934962,"Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*>/.<*> (has extras) }"
+d4fbd676,<*> <*>
+d4fbd676,<*> <*>
+2528f150,<*>
+6194cd91,"updateClipping <*> getTopPadding=<*>.<*>, <*>"
+27db42da,updateDimmedActivatedHideSensitive <*>
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"
+acc3c319,HBM brightnessIn =<*>
+05131012,HBM brightnessOut =<*>
+ada2ed50,"Animating brightness: target=<*>, rate=<*>"

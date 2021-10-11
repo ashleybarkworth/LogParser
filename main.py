@@ -1,12 +1,16 @@
 import csv
-import math
+import hashlib
+import os
 import re
 
-import numpy
 import textdistance
+import pandas as pd
+import dataset_settings
+import evaluator
 
-data = './data/'
-DISTANCE_THRESHOLD = 0.3  # TODO this is a placeholder, research and change accordingly
+data_dir = './data/'
+output_dir = './output/'
+DISTANCE_THRESHOLD = 0.1
 
 keywords = ['error', 'warning', 'application', 'service']
 c_id = 0
@@ -14,23 +18,32 @@ c_id = 0
 
 class Cluster:
 
-    def __init__(self, log=None, keyword=None):
+    def __init__(self, keyword=None):
         global c_id
         self.id = c_id
         c_id += 1
-        self.logs = [log] if log is not None else []
+
+        self.log_template = None
+        self.logs = []
+        self.ids = []
         self.keyword = keyword
         self.count = 1
-        if log is not None:
-            self.log_template = log
 
-    def add_log_to_cluster(self, log):
+    def add_log_to_cluster(self, log, i):
         self.count += 1
         self.logs.append(log)
+        self.ids.append(i)
+        # If it's not a keyword cluster then update template
+        if self.keyword is None:
+            self.update_log_template(log)
 
     def update_log_template(self, log):
-        log_tokens = log.split()
-        self.log_template = ' '.join([token if token == log_tokens[idx] else '<*>' for idx, token in enumerate(self.log_template.split())])
+        if self.log_template is None:
+            self.log_template = log
+        else:
+            log_tokens = log.split()
+            self.log_template = ' '.join([token if token == log_tokens[idx]
+                                          else '<*>' for idx, token in enumerate(self.log_template.split())])
 
     def fill_wildcards(self, log):
         """
@@ -56,7 +69,7 @@ class Cluster:
         else:
             return AttributeError
 
-        logs = 'LOGS)\n'
+        logs = 'LOGS ({0} total))\n'.format(len(self.logs))
         for i, log in enumerate(self.logs):
             logs += 'Log {0}: '.format(i) + log + '\n'
 
@@ -64,43 +77,11 @@ class Cluster:
 
 
 def levenshteinDistance(template, log):
-    #
-    # distances = numpy.zeros((len(template) + 1, len(log) + 1))
-    # # Initializing the distance matrix
-    # for templateMatrix in range(len(template) + 1):
-    #     distances[templateMatrix][0] = templateMatrix
-    #
-    # for logMatrix in range(len(log) + 1):
-    #     distances[0][logMatrix] = logMatrix
-    #
-    # # iterate loop through each cell in matrix
-    # for templateMatrix in range(1, len(template) + 1):
-    #     for logMatrix in range(1, len(log) + 1):
-    #
-    #         if template[templateMatrix - 1] == log[logMatrix - 1]:
-    #             distances[templateMatrix][logMatrix] = distances[templateMatrix - 1][logMatrix - 1]
-    #         else:
-    #             deletion = distances[templateMatrix][logMatrix - 1]
-    #             insertion = distances[templateMatrix - 1][logMatrix]
-    #             substitution = distances[templateMatrix - 1][logMatrix - 1]
-    #
-    #             if deletion <= insertion and deletion <= substitution:
-    #                 distances[templateMatrix][logMatrix] = deletion + 1
-    #             elif insertion <= deletion and insertion <= substitution:
-    #                 distances[templateMatrix][logMatrix] = insertion + 1
-    #             else:
-    #                 distances[templateMatrix][logMatrix] = substitution + 1
-    #
-    # # printDistances(distances, len(template), len(log))
-    # distance = distances[len(template)][len(log)]
-    # Levenshtein distance
     dist2 = textdistance.levenshtein(template, log)
-
-    # print(distance)
     return dist2 / max(len(template), len(log))
 
 
-def add_log_to_keyword_clusters(clusters, log):
+def add_log_to_keyword_clusters(clusters, log, i):
     """
     Checks to see if log message contains any of the keywords. If so, the log is added to the corresponding cluster.
     :param clusters: list of keyword clusters
@@ -109,7 +90,7 @@ def add_log_to_keyword_clusters(clusters, log):
     for c in clusters:
         # Convert to uppercase in order to search for all possible cases, e.g. 'error', 'Error', 'ERROR'
         if c.keyword.upper() in log.upper():
-            c.add_log_to_cluster(log)
+            c.add_log_to_cluster(log, i)
 
 
 def create_keyword_clusters():
@@ -139,58 +120,105 @@ def get_similar_clusters(clusters, log):
         # For now this just checks if log lengths are equal, maybe look at comparing different lengths later
         if len(log.split()) == len(template.split()):
             filled_template = c.fill_wildcards(log)
-            # Check if similarity is less than threshold
+            # Check if distance is less than threshold
             distance = levenshteinDistance(filled_template, log)
             if distance < DISTANCE_THRESHOLD:
                 candidates.append((c, distance))
     return candidates
 
 
-def create_clusters(reader):
+def preprocess_log(log, regex):
+    for currentRex in regex:
+        log = re.sub(currentRex, '<*>', log)
+    return log
+
+
+def create_clusters(reader, regex):
     """
     Creates the log and keyword clusters
     :param reader: Reader for the CSV file mapping field names to values
+    :param regex:
     :return: two lists containing the log and keyword clusters, respectively
     """
     log_clusters = []  # Clusters based on log similarity
     keyword_clusters = create_keyword_clusters()  # Clusters based on keywords
-    for row in reader:
-        # log = sanitize_input(row['Content'], file_type)
+    templates = []  # Stores 'ground truth' templates for each log
+    for i, row in enumerate(reader):
         log = row['Content']
-        add_log_to_keyword_clusters(keyword_clusters, log)
+        log = preprocess_log(log, regex)
+        add_log_to_keyword_clusters(keyword_clusters, log, i)
         candidates = get_similar_clusters(log_clusters, log)
         # If there's no similar clusters, then create a new one with the log
         candidates.sort(key=lambda c: c[1], reverse=True)
         if len(candidates) > 0:
             most_similar_cluster = candidates[0][0]
-            most_similar_cluster.add_log_to_cluster(log)  # Add new log to most similar cluster
-            most_similar_cluster.update_log_template(log)  # Update most similar cluster's log template
+            most_similar_cluster.add_log_to_cluster(log, i)  # Add new log to most similar cluster
         else:
-            new_cluster = Cluster(log=log)
+            new_cluster = Cluster()
+            new_cluster.add_log_to_cluster(log, i)
             log_clusters.append(new_cluster)
+        templates.append(row['EventTemplate'])
 
-    return keyword_clusters, log_clusters
+    return keyword_clusters, log_clusters, templates
 
 
-def print_clusters(clusters):
-    [print(c) for c in clusters]
+def print_clusters(log_clusters, keyword_clusters):
+    print('Keyword Clusters\n==============\n')
+    [print(c) for c in log_clusters]
+    print('Log Clusters\n==============\n')
+    [print(c) for c in keyword_clusters]
+
+
+def write_results(log_clusters, templates, file_name):
+    df_log = pd.DataFrame()
+    if not os.path.isdir(output_dir):
+        os.makedirs(output_dir)
+
+    df_event = []
+    templates = [0] * len(templates)
+    template_ids = [0] * len(templates)
+    for c in log_clusters:
+        template = c.log_template
+        eventid = hashlib.md5(' '.join(template).encode('utf-8')).hexdigest()[0:8]
+        logids = c.ids
+        for logid in logids:
+            templates[logid] = template
+            template_ids[logid] = eventid
+        df_event.append([eventid, template, len(logids)])
+
+    df_log['EventId'] = template_ids
+    df_log['EventTemplate'] = templates
+
+    pd.DataFrame(df_event, columns=['EventId', 'EventTemplate', 'Occurrences']).to_csv(
+        os.path.join(output_dir, file_name + '_templates.csv'), index=False)
+    df_log.to_csv(os.path.join(output_dir, file_name + '_structured.csv'), index=False)
+
+
+def calculate_accuracy(filename):
+    accuracy = evaluator.evaluate(
+        groundtruth=os.path.join(data_dir, filename + '_structured.csv'),
+        parsedresult=os.path.join(output_dir, filename + '_structured.csv')
+    )
+    print('Parsing Accuracy: {:.4f}'.format(accuracy))
 
 
 # Open the file, call tokenize() to create lists of tokens, log tokens, and log token lengths
-def process_file(file_name):
-    print('Processing file ', file_name)
-    filepath = data + file_name
+def process_file(settings):
+    file_name = settings['log_file']
+    filepath = data_dir + file_name + '_structured.csv'
+    regex = settings['regex']
     with open(filepath) as csv_file:
         reader = csv.DictReader(csv_file)
-        # Create clusters
-        keyword_clusters, log_clusters = create_clusters(reader)
-        # Print out keyword and log clusters
-        print('Keyword Clusters\n==============\n')
-        print_clusters(keyword_clusters)
-        print('Log Clusters\n==============\n')
-        print_clusters(log_clusters)
-        print('Done clustering')
+        keyword_clusters, log_clusters, templates = create_clusters(reader, regex)
+        # print_clusters(log_clusters, keyword_clusters)
+        write_results(log_clusters, templates, file_name)
+        calculate_accuracy(file_name)
 
 
 if __name__ == '__main__':
-    process_file('Thunderbird_2k.log_structured.csv')
+    for dataset, settings in dataset_settings.settings.items():
+
+        print('Processing dataset {0}\n========================'.format(dataset))
+        process_file(settings)
+        print('========================\n')
+

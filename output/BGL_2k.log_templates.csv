@@ -1,0 +1,183 @@
+EventId,EventTemplate,Occurrences
+e21dcac7,instruction cache parity error corrected,42
+dca09856,63543 double-hummer alignment exceptions,1
+ae4c7e9f,<*> double-hummer alignment exceptions,108
+cedd44a3,"CE sym 2, at 0x0b85eee0, mask 0x05",1
+c20baafe,ciod: failed to read message prefix on control stream (CioStream socket to <*>,3
+3b366ec0,"CE sym 20, at 0x1438f9e0, mask 0x40",1
+946610a6,generating <*>,721
+e1f80a39,force load/store alignment...............0,2
+bd0e8ebf,"CE sym 20, at 0x01228120, mask 0x10",1
+0eb70644,"CE sym 5, at 0x11042a80, mask 0x04",2
+e78d79a9,ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff,1
+8fc611f4,ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory,1
+e4991c8a,"CE sym 28, at 0x110067e0, mask 0x02",1
+e02f6f69,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>",18
+ecaeb83e,"CE sym 14, at 0x06047860, mask 0x20",1
+70605528,CE sym <*> at <*> mask <*>,85
+a4c32faf,data TLB error interrupt,60
+e1cc1f13,ciod: Message code 0 is not 51 or 4294967295,1
+e2bd8dbe,data storage interrupt,30
+c105ddb5,instruction address: 0x00004ed8,20
+7412a3f3,data address: 0x00000002,8
+4b6b9fe0,machine check: i-fetch......................0,5
+143e9cba,program interrupt: illegal <*>,8
+e9d733f8,exception syndrome register: <*>,6
+364f7adf,data store interrupt caused by <*>,10
+47f83898,program interrupt: privileged instruction...0,5
+e1d3ea94,program interrupt: trap instruction.........0,1
+a80f5760,program interrupt: imprecise exception......0,5
+3a04f185,store operation.............................1,2
+660718af,machine state register: 0x00002000,4
+5f58909e,"problem state (0=sup,1=usr).......0",3
+9e18280f,floating point instr. enabled.....1,4
+d9a353bd,auxiliary processor.........................0,5
+10df4c16,machine check enable..............0,2
+183dad39,floating pt ex mode <*> enable......0,5
+3e151324,program interrupt: unimplemented operation..0,2
+9317ce26,debug interrupt enable............0,1
+3b9fd46c,byte ordering exception.....................0,2
+7903a8b9,data address space................0,5
+48109f45,core configuration register: 0x00002000,7
+e93b8f61,program interrupt: fp cr update.............0,1
+b20cabf3,guaranteed instruction cache block touch.0,2
+307fad2e,program interrupt: fp cr field .............0,4
+167815ae,guaranteed data cache block touch........1,1
+309572f4,icache prefetch depth....................0,1
+f3917acb,icache prefetch threshold................0,2
+ee031ae3,wait state enable.................0,1
+7a78adb0,critical input interrupt enable...0,1
+5d5b00ea,special purpose registers:,1
+efdcc224,lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000,1
+697a16ce,rts internal error,1
+9c2e5efb,debug wait enable.................0,2
+c0767c02,instruction address space.........0,1
+06b6caf2,disable store gathering..................0,3
+d001716e,total of <*> ddr error(s) detected and corrected,13
+172e7a0b,"ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory",1
+177f9f0d,ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes,1
+19e2ae2b,"ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory",1
+5cac9f48,"ciod: Error loading <*> invalid or missing program image, No such file or directory",7
+d0911d26,program interrupt,3
+e715c04c,instruction address: 0x0062fe04,1
+cf117fcb,Node card is not fully functional,6
+6a259064,ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor,1
+9968c7e0,Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005,1
+465a70fb,Can not get assembly information for node card,6
+cda70fad,ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile,1
+9715a814,<*> torus receiver <*> input pipe error(s) (dcr <*> detected and corrected,4
+d0deab48,ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map,1
+101ea4a8,ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required,1
+f4202f5b,"ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory",1
+b0f7d781,rts panic! - stopping execution,2
+11ff82ac,ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied,1
+552b0161,ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map,1
+cf9aba3e,"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015",1
+d9d676e0,<*> floating point alignment exceptions,121
+346a9ea9,New ido chip inserted into the database: FF:F2:9F:15:1F:72:00:0D:60:EA:E0:8D ip=10.7.0.13 v=9 t=2,1
+00f04e6c,New ido chip inserted into the database: FF:F2:9F:16:BF:6C:00:0D:60:E9:40:93 ip=10.5.0.46 v=13 t=4,1
+f50de301,NodeCard is not fully functional,1
+13a0eb7c,"Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",1
+82d7e753,"Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid 04DF80A7942FFFFF0C081AE08CD2, found 0000000000000000000000000000",1
+87654865,New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4,1
+30d1fd57,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",35
+fea6b6a3,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,5
+8daee4e0,"Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid 074C04C10F7BFFFF08051AE08ED2, found 04C180A5D12FFFFF05081BD088E2",1
+bb196290,Ido chip status changed: FF:F2:9F:16:EB:27:00:0D:60:E9:14:D8 ip=10.0.2.192 v=13 t=4 status=M Thu Aug 04 15:29:45 PDT 2005,1
+590ae075,Ido chip status changed: FF:F2:9F:15:7E:6E:00:0D:60:EA:81:91 ip=10.0.1.155 v=13 t=1 status=M Thu Aug 04 15:31:25 PDT 2005,1
+7d9320b3,"PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310",1
+242fd41d,Ido chip status changed: FF:F2:9F:16:DC:81:00:0D:60:E9:23:7E ip=10.6.1.207 v=13 t=4 status=M Tue Aug 09 10:08:23 PDT 2005,1
+83608f3a,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,1
+f1a6b1dd,<*> tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,3
+0ca5318b,"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",15
+17aff711,ciod: LOGIN chdir(pwd) failed: No such file or directory,2
+9281ddb4,"ciod: Error loading /bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno: invalid or missing program image, No such file or directory",1
+eaff7b2f,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed,9
+61304d1f,ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map,1
+b68e1917,rts: kernel terminated for reason <*>,6
+ee9262f7,ciod: LOGIN chdir(/p/bg1/da) failed: No such file or directory,1
+0146c89d,ciod: generated <*> core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm,5
+72d2cfe2,ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory,1
+a34fbf48,ciod: generated <*> core files for program <*>,17
+3fa5e7e9,ciod: LOGIN chdir(/home/germann2/BGL-demo) failed: No such file or directory,1
+9881838d,iar 003a90fc dear 00b360e8,1
+43c4f5cc,iar 003a90dc dear 00b35148,1
+b8f7da78,iar 003a90fc dear 00b35db8,1
+4d387d78,iar 003a9108 dear 00c07348,1
+c4a19711,iar 003a9294 dear 00c06c48,1
+b8554a4f,iar 003a92a0 dear 00b36898,1
+e7e89daa,iar <*> dear <*>,186
+48a9b49d,iar 003a9260 dear 00efcbc8,1
+9f99c1a1,iar 003a929c dear 00efc768,1
+41a04a0c,iar 003a929c dear 00efd448,1
+e7e89daa,iar <*> dear <*>,12
+72cb4a4f,iar 003a92a0 dear 00fcc6b8,1
+aec878df,"NFS Mount failed on <*> slept 15 seconds, retrying (1)",2
+7255774e,ciod: generated 64 core files for program IMB-MPI1.2MB_perf,1
+ab5b7e2c,Lustre mount FAILED : <*> : point /p/gb1,9
+020fa190,ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory,1
+558eaa68,"Node card VPD check: U11 node in processor card slot J18 do not match. VPD ecid 04CC81389C2FFFFF03071B7048DF, found 04D780871F2FFFFF08031BD046E2",1
+4760945f,ciod: LOGIN chdir(/LAPACK_440d/BLAS) failed: No such file or directory,1
+ed1433ad,ciod: pollControlDescriptors: Detected the debugger died.,3
+5a932531,"ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)",1
+6275a396,"ciod: Error loading /bgl/apps/swl-prep/rky-swl/MPI-PERF/IMB/perf_tests/IMB-MPI1.5124KB: invalid or missing program image, No such file or directory",1
+df150aa2,suppressing further interrupts of same type,2
+474038af,Ido chip status changed: FF:F2:9F:15:7B:E0:00:0D:60:EA:84:1F ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005,1
+8fb5f69a,ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory,2
+86be003f,ciod: LOGIN chdir(/home/yates/SWL_tests/BGL64k_SWL_tests_develop/MPI-VAL/MPITs_v050902/rundir) failed: No such file or directory,1
+c7224119,"Node card VPD check: U01 node in processor card slot J15 do not match. VPD ecid 04DE7DB80D7BFFFF04051B70D8D9, found 04DE7DF2D37BFFFF09081B6088D9",1
+9a4d5a3e,"Node card VPD check: U11 node in processor card slot J17 do not match. VPD ecid 04D97DB7937BFFFF05071B7054DA, found 04D081A3892FFFFF0D0B1C505AF3",1
+25be98ad,"Node card VPD check: U01 node in processor card slot J08 do not match. VPD ecid 075F04E8A27BFFFF07021C3096ED, found 04D78137922FFFFF040E1C3052ED",1
+c032353f,"ciod: Error loading /home/yates//bandwidth.rts: invalid or missing program image, No such file or directory",1
+5cac9f48,"ciod: Error loading <*> invalid or missing program image, No such file or directory",8
+01b90347,rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007,1
+2ed65ba9,ciod: LOGIN <*> failed: No such file or directory,7
+75b2513d,ciod: generated 128 core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV,1
+8b71d978,ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/TomAndJeff/bin/tested_copro/tested_copro.rts,1
+3e2963f2,critical input interrupt (unit=0x0b <*> warning for torus <*> wire,2
+ccac8933,"ciod: Error loading <*> invalid or missing program image, Permission denied",19
+bcab000d,ciod: generated 108 core files for program /home/spelce1/HPCC_IBM/Urgent/VNM/32K/vnm.rts,1
+5bf62d0e,ciod: generated <*> core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts,2
+ad349cc6,data cache search parity error detected. attempting to correct,6
+06a13402,shutdown complete,1
+6babdbcf,"ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error",2
+c3e64b7e,ciod: generated 64 core files for program /home/rfisher/sodscaling/flash2,1
+d64985a1,"Error receiving packet on tree network, expecting type 57 instead of type 3 <*> <*> 00000002 00000000) <*> PSR1=00000000 PRXF=00000002 PIXF=00000007",5
+cbc4aed9,ciod: generated 128 core files for program /g/g20/valone1/SPaSM-shock/SPaSM_mpi,1
+dda3283f,3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+25557287,"critical input interrupt (unit=0x0b <*> warning for <*> <*> wire, suppressing further interrupts of same type",3
+e2847e8b,"Node card VPD check: U11 node in processor card slot J04 do not match. VPD ecid 04D58088CB2FFFFF08031C104CE9, found 04CA80D8012FFFFF08061A8094CB",1
+eb0f358a,"Node card VPD check: U11 node in processor card slot J10 do not match. VPD ecid 07570DD8002FFFFF09031B7090E2, found 04D480D8482FFFFF0A071BA052DE",1
+1c97fa6a,<*> torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over <*> seconds,2
+3e82de16,"ciod: Received signal 15, code=0, errno=0, <*>",16
+120cedad,Lustre mount FAILED : <*> : block_id : location,2
+bbe7100d,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),7
+05e342eb,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out,2
+8c0869b2,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer,4
+8bf4e87a,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,1
+48af3c7d,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed,8
+46bea1e2,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,1
+864ff333,<*> tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over <*> seconds,2
+7acd82e5,"Node card VPD check: U01 node in processor card slot J05 do not match. VPD ecid 04D37DF2DE7BFFFF0D081AF0DAD2, found 04DD80740E2FFFFF0A0C19D0CEBD",1
+2d924494,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,51
+e9ea1f91,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",71
+352df80f,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds",7
+13d4cf71,"PrepareForService shutting down Node card(mLctn(R10-M1-N2), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648",1
+125fb2b4,"Kernel detected 35591540 integer alignment exceptions (35591533) iar 0x0023f108, dear 0x1feaa260 (35591534) iar 0x00265564, dear 0x1feaa1c0 (35591535) iar 0x00265574, dear 0x1feaa1e0 (35591536) iar 0x00265578, dear 0x1feaa200 (35591537) iar 0x00265588, dear 0x1feaa220 (35591538) iar 0x0026558c, dear 0x1feaa240 (35591539) iar 0x00265594, dear 0x1feaa260 (35591540) iar 0x00265598, dear 0x1feaa280",1
+0c7c07fc,total of <*> ddr error(s) detected and corrected over <*> seconds,4
+3336f3db,minus normalized number..................0,1
+e9ed0f3d,fraction rounded.........................0,1
+5dd06682,size of scratchpad portion of L3.........0 (0M),1
+ff32df38,"Kernel detected 3830884 integer alignment exceptions (3830877) iar 0x00544ea8, dear 0x01fc1ba0 (3830878) iar 0x00544eb8, dear 0x01fc1bc0 (3830879) iar 0x00544ea8, dear 0x01fc1be0 (3830880) iar 0x00544eb8, dear 0x01fc1c00 (3830881) iar 0x00544ee0, dear 0x01fc1c20 (3830882) iar 0x00544ef0, dear 0x01fc1c40 (3830883) iar 0x00544ee0, dear 0x01fc1c60 (3830884) iar 0x00544ef0, dear 0x01fc1c80",1
+dc2adc9e,"Kernel detected 3853444 integer alignment exceptions (3853437) iar 0x00544ea8, dear 0x01ef5e20 (3853438) iar 0x00544eb8, dear 0x01ef5e40 (3853439) iar 0x00544ea8, dear 0x01ef5e60 (3853440) iar 0x00544eb8, dear 0x01ef5e80 (3853441) iar 0x00544ee0, dear 0x01ef5ea0 (3853442) iar 0x00544ef0, dear 0x01ef5ec0 (3853443) iar 0x00544ee0, dear 0x01ef5ee0 (3853444) iar 0x00544ef0, dear 0x01ef5f00",1
+f7cd19d3,"Kernel detected 3747792 integer alignment exceptions (3747785) iar 0x00544ea8, dear 0x01fc9220 (3747786) iar 0x00544eb8, dear 0x01fc9240 (3747787) iar 0x00544ea8, dear 0x01fc9260 (3747788) iar 0x00544eb8, dear 0x01fc9280 (3747789) iar 0x00544ee0, dear 0x01fc92a0 (3747790) iar 0x00544ef0, dear 0x01fc92c0 (3747791) iar 0x00544ee0, dear 0x01fc92e0 (3747792) iar 0x00544ef0, dear 0x01fc9300",1
+94f7e074,"Kernel detected 3946290 integer alignment exceptions (3946283) iar 0x00544ea8, dear 0x01ef6080 (3946284) iar 0x00544eb8, dear 0x01ef60a0 (3946285) iar 0x00544ea8, dear 0x01ef60c0 (3946286) iar 0x00544eb8, dear 0x01ef60e0 (3946287) iar 0x00544ee0, dear 0x01ef6100 (3946288) iar 0x00544ef0, dear 0x01ef6120 (3946289) iar 0x00544ee0, dear 0x01ef6140 (3946290) iar 0x00544ef0, dear 0x01ef6160",1
+d095999d,"Kernel detected 4909176 integer alignment exceptions (4909169) iar 0x00544ea8, dear 0x01fc8a40 (4909170) iar 0x00544eb8, dear 0x01fc8a60 (4909171) iar 0x00544ea8, dear 0x01fc8a80 (4909172) iar 0x00544eb8, dear 0x01fc8aa0 (4909173) iar 0x00544ee0, dear 0x01fc8ac0 (4909174) iar 0x00544ef0, dear 0x01fc8ae0 (4909175) iar 0x00544ee0, dear 0x01fc8b00 (4909176) iar 0x00544ef0, dear 0x01fc8b20",1
+e5e30d26,"Kernel detected 4898338 integer alignment exceptions (4898331) iar 0x00544ea8, dear 0x049e75e0 (4898332) iar 0x00544eb8, dear 0x049e7600 (4898333) iar 0x00544ea8, dear 0x049e7620 (4898334) iar 0x00544eb8, dear 0x049e7640 (4898335) iar 0x00544ee0, dear 0x049e7660 (4898336) iar 0x00544ef0, dear 0x049e7680 (4898337) iar 0x00544ee0, dear 0x049e76a0 (4898338) iar 0x00544ef0, dear 0x049e76c0",1
+69f3dd46,"Kernel detected 3945740 integer alignment exceptions (3945733) iar 0x00544ea8, dear 0x01ef7960 (3945734) iar 0x00544eb8, dear 0x01ef7980 (3945735) iar 0x00544ea8, dear 0x01ef79a0 (3945736) iar 0x00544eb8, dear 0x01ef79c0 (3945737) iar 0x00544ee0, dear 0x01ef79e0 (3945738) iar 0x00544ef0, dear 0x01ef7a00 (3945739) iar 0x00544ee0, dear 0x01ef7a20 (3945740) iar 0x00544ef0, dear 0x01ef7a40",1
+b53d73f9,"Kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40",1
+2d17df4a,ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,1
+91dbf7fc,2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,1
+22ad5e19,"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160",1
+f0a23bcb,fpr29=0xffffffff ffffffff ffffffff ffffffff,1
+dd92e0a7,Machine State Register: 0x0002f900,1

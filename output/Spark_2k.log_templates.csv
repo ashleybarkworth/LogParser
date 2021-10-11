@@ -1,0 +1,36 @@
+EventId,EventTemplate,Occurrences
+18d37603,"Registered signal handlers for [TERM, HUP, INT]",1
+8aa10cac,"Changing view acls to: yarn,curi",2
+7455e9ad,"Changing modify acls to: yarn,curi",2
+97a448ac,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",2
+5d9b5072,Slf4jLogger started,1
+608cc03a,Starting remoting,1
+deb755d9,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],1
+ed3bef70,Successfully started service 'sparkExecutorActorSystem' on port 55904.,1
+679b3c55,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+6a2a4dbe,MemoryStore started with capacity 17.7 <*>,1
+1b21ea15,Connecting to driver: spark://CoarseGrainedScheduler@<*>:48069,1
+610be07b,Successfully registered with driver,1
+2d154906,Starting executor ID 5 on host mesos-slave-07,1
+90fd0a16,Successfully started service '<*>' on port 40984.,1
+23e98b39,Server created on 40984,1
+d56d7443,Trying to register BlockManager,1
+d7b4c6cc,Registered BlockManager,1
+9f536426,Got assigned task <*>,305
+12d9627f,Running task <*> in stage <*> (TID <*>,305
+3a7ce14f,Started reading broadcast variable <*>,37
+b84055b9,"Block <*> stored as <*> in memory (estimated size <*> <*>, free <*> <*>)",146
+55bc7801,Reading broadcast variable <*> took <*> ms,37
+b84055b9,"Block <*> stored as <*> in memory (estimated size <*> <*>, free <*> <*>)",3
+018720dc,"Partition <*> not found, computing it",75
+a82e4696,Input split: <*>,45
+d4bbafca,"<*> is deprecated. Instead, use <*>",5
+e7dc1836,Times: total = <*> boot = <*> init = <*> finish = <*>,371
+eb36c232,"Times: total = 1114, boot = 885, init = 223, finish = 6",1
+e7dc1836,Times: total = <*> boot = <*> init = <*> finish = <*>,3
+dbfa3b54,Finished task <*> in stage <*> (TID <*> <*> bytes result sent to driver,300
+a99f19ce,Found block <*> locally,257
+d2ae97ac,File Output Committer Algorithm version is 1,30
+99acea06,Saved output of task <*> to <*>,30
+6238813e,<*> Committed,28
+6238813e,<*> Committed,2

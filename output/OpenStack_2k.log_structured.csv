@@ -1,0 +1,2001 @@
+EventId,EventTemplate
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+acc46777,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM <*> (Lifecycle Event)
+acc46777,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+952bfe4f,Creating event network-vif-plugged:e<*>ffd-<*>cd<*>-<*>-bddd-<*>f<*>b<*> for instance b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+acc46777,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM <*> (Lifecycle Event)
+e09d4a73,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+acc46777,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM <*> (Lifecycle Event)
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b57b9ab3,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Took <*>.<*> seconds to build instance.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+bd8bb71f,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Terminating instance
+e09d4a73,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+35b5dbf5,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Deleting instance files /var/lib/nova/instances/b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d_del
+d12d34e1,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+e892b7e4,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+ce7b630e,"[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+e15dc28f,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Total <*> <*> <*> used: <*>.<*> <*>
+050614ad,"[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+e15dc28f,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Total <*> <*> <*> used: <*>.<*> <*>
+c9b709ff,"[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] <*> limit not specified, defaulting to unlimited"
+e15dc28f,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Total <*> <*> <*> used: <*>.<*> <*>
+c9b709ff,"[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] <*> limit not specified, defaulting to unlimited"
+cb464e61,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+79cac3cd,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+acc46777,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a3771c20,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM <*> (Lifecycle Event)
+a3771c20,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM <*> (Lifecycle Event)
+3424b1de,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+35d6753d,Creating event network-vif-plugged:a<*>c-c<*>e<*>-<*>-a<*>a<*>-d<*>e<*>afd<*> for instance <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a3771c20,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM <*> (Lifecycle Event)
+bf4c8422,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Instance <*> successfully.
+ec33b4bc,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.
+3424b1de,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] During sync_power_state the instance has a pending task (spawning). Skip.
+a3771c20,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM <*> (Lifecycle Event)
+51d87a7b,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+5b9541a3,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+38fc4031,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fcf79207,Running instance usage audit for host cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us from <*>-<*>-<*> <*>:<*>:<*> to <*>-<*>-<*> <*>:<*>:<*>. <*> instances.
+bf4c8422,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Instance <*> successfully.
+380e9e5f,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Deleting instance files /var/lib/nova/instances/<*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>_del
+fb44a39a,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Deletion of <*>complete
+ec33b4bc,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+af0c98f1,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to deallocate network for instance.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+334222b5,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+e4e9ef1a,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total <*> <*> <*> used: <*>.<*> <*>
+6292d04c,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+e4e9ef1a,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total <*> <*> <*> used: <*>.<*> <*>
+85793d82,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] <*> limit not specified, defaulting to unlimited"
+e4e9ef1a,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total <*> <*> <*> used: <*>.<*> <*>
+85793d82,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] <*> limit not specified, defaulting to unlimited"
+c252a9d9,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+8af0c516,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Creating image
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a3771c20,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+33fd1230,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM <*> (Lifecycle Event)
+33fd1230,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM <*> (Lifecycle Event)
+8863f4a5,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+ebfbdd77,Creating event network-vif-plugged:d<*>ce<*>c<*>a-<*>-<*>c<*>-<*>a<*>a-<*>f<*>e<*>defcb<*> for instance b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+33fd1230,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM <*> (Lifecycle Event)
+d8151ee7,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Instance <*> successfully.
+7f60664e,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.
+8863f4a5,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] During sync_power_state the instance has a pending task (spawning). Skip.
+33fd1230,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM <*> (Lifecycle Event)
+c62d170c,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+46bfeec3,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+d8151ee7,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+9bd37d23,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Deleting instance files /var/lib/nova/instances/b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>_del
+a41e0213,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Deletion of <*>complete
+7f60664e,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+2f7c0df8,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1d3f03a,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+a388ab0a,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total <*> <*> <*> used: <*>.<*> <*>
+a02e9639,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+a388ab0a,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total <*> <*> <*> used: <*>.<*> <*>
+317045e0,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] <*> limit not specified, defaulting to unlimited"
+a388ab0a,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total <*> <*> <*> used: <*>.<*> <*>
+317045e0,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] <*> limit not specified, defaulting to unlimited"
+d159952e,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c7a0ed8a,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+33fd1230,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b76bd7dd,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM <*> (Lifecycle Event)
+b76bd7dd,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+3920d674,Creating event network-vif-plugged:b<*>c<*>-<*>-<*>e<*>-<*>ba<*>-ec<*>d<*>d<*>d for instance <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b76bd7dd,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM <*> (Lifecycle Event)
+0a8e0d21,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b76bd7dd,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM <*> (Lifecycle Event)
+8b57a391,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Took <*>.<*> seconds to build instance.
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+9e0eb4a7,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+0a8e0d21,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1a18f9b,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Deleting instance files /var/lib/nova/instances/<*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf_del
+7889f527,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+ed9e3e31,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+cf288e26,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total <*> <*> <*> used: <*>.<*> <*>
+0c7b9065,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+cf288e26,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total <*> <*> <*> used: <*>.<*> <*>
+fd98c6be,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] <*> limit not specified, defaulting to unlimited"
+cf288e26,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total <*> <*> <*> used: <*>.<*> <*>
+fd98c6be,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] <*> limit not specified, defaulting to unlimited"
+8de1801d,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+e4c5e89d,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b76bd7dd,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+8cf7e2a9,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+8cf7e2a9,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+72e328c6,Creating event network-vif-plugged:<*>cf<*>-<*>-<*>f<*>c-<*>c-<*>ba<*>e<*>f<*> for instance <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+8cf7e2a9,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM <*> (Lifecycle Event)
+9e30bd62,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+8cf7e2a9,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM <*> (Lifecycle Event)
+b31a2731,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5b9541a3,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+073c4632,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+9e30bd62,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+ecfb435f,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Deleting instance files /var/lib/nova/instances/<*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c_del
+82560969,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c6e451cc,[instance: <*> Took <*>.<*> seconds to deallocate network for instance.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4d75a530,"[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+24241503,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Total <*> <*> <*> used: <*>.<*> <*>
+baa67796,"[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+24241503,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Total <*> <*> <*> used: <*>.<*> <*>
+65ce7f90,"[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] <*> limit not specified, defaulting to unlimited"
+24241503,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Total <*> <*> <*> used: <*>.<*> <*>
+65ce7f90,"[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] <*> limit not specified, defaulting to unlimited"
+aab4360d,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+476a05ca,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+8cf7e2a9,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+efeecdf4,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM <*> (Lifecycle Event)
+efeecdf4,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+13b2c974,Creating event network-vif-plugged:<*>-baff-<*>ad-<*>e<*>-a<*>c<*> for instance <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+efeecdf4,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM <*> (Lifecycle Event)
+a23431fe,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+efeecdf4,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM <*> (Lifecycle Event)
+f5fb7fda,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+546e97d1,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a23431fe,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+2d4dcd4a,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Deleting instance files /var/lib/nova/instances/<*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>_del
+324062d5,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+baa83d1b,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+7a91ee4b,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Total <*> <*> <*> used: <*>.<*> <*>
+98ee0be0,"[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+7a91ee4b,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Total <*> <*> <*> used: <*>.<*> <*>
+17d70472,"[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] <*> limit not specified, defaulting to unlimited"
+7a91ee4b,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Total <*> <*> <*> used: <*>.<*> <*>
+17d70472,"[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] <*> limit not specified, defaulting to unlimited"
+945ef9eb,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+77430395,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+efeecdf4,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+5ea563d1,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM <*> (Lifecycle Event)
+5ea563d1,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+da082ebd,Creating event network-vif-plugged:<*>bdba<*>d-dd<*>-<*>c-ab<*>-<*>d<*>c<*>c<*> for instance af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5ea563d1,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM <*> (Lifecycle Event)
+80398f91,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+5ea563d1,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM <*> (Lifecycle Event)
+0dc1be20,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+435dde39,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Terminating instance
+80398f91,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+cf02b7f2,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Deleting instance files /var/lib/nova/instances/af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>_del
+028a7f30,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a74bd871,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+e3a7e2d5,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Total <*> <*> <*> used: <*>.<*> <*>
+9ba2edf9,"[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+e3a7e2d5,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Total <*> <*> <*> used: <*>.<*> <*>
+7d1410b0,"[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] <*> limit not specified, defaulting to unlimited"
+e3a7e2d5,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Total <*> <*> <*> used: <*>.<*> <*>
+7d1410b0,"[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] <*> limit not specified, defaulting to unlimited"
+9e8d4c5e,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+9d3e547b,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5ea563d1,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5139ad40,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM <*> (Lifecycle Event)
+5139ad40,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+12d84a54,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+770f3e64,Creating event network-vif-plugged:<*>dbd<*>a<*>-<*>e-<*>cd<*>-<*>-fa<*>e<*>d<*>dd<*> for instance ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5139ad40,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM <*> (Lifecycle Event)
+d9d9261d,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+5139ad40,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM <*> (Lifecycle Event)
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+a366b34b,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Took <*>.<*> seconds to build instance.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+e86e296d,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+d9d9261d,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+26fff2bf,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Deleting instance files /var/lib/nova/instances/ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f_del
+05a3702d,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+25569b19,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Took <*>.<*> seconds to deallocate network for instance.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+4a171e89,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Total <*> <*> <*> used: <*>.<*> <*>
+21437e37,"[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+4a171e89,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Total <*> <*> <*> used: <*>.<*> <*>
+8bb61a90,"[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] <*> limit not specified, defaulting to unlimited"
+4a171e89,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Total <*> <*> <*> used: <*>.<*> <*>
+8bb61a90,"[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] <*> limit not specified, defaulting to unlimited"
+7b73b7c2,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b50c0256,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5139ad40,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+08c114d7,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM <*> (Lifecycle Event)
+08c114d7,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+794ae7a2,Creating event network-vif-plugged:<*>df<*>c<*>-a<*>-<*>-aeed-<*>a<*> for instance <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+08c114d7,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM <*> (Lifecycle Event)
+7d34ac00,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+08c114d7,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM <*> (Lifecycle Event)
+93ef8990,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+47ae0c4c,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+7d34ac00,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+f966f2da,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Deleting instance files /var/lib/nova/instances/<*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>_del
+a6f6156c,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+d84d7d7b,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Took <*>.<*> seconds to deallocate network for instance.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+019ca3a3,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+c5bab2ea,"[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+019ca3a3,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+188470d4,"[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] <*> limit not specified, defaulting to unlimited"
+019ca3a3,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+188470d4,"[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] <*> limit not specified, defaulting to unlimited"
+b58d33e5,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4ca7714c,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+08c114d7,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+41a31cc7,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM <*> (Lifecycle Event)
+41a31cc7,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+3eb106d5,Creating event network-vif-plugged:<*>b<*>-<*>-<*>-aa<*>-<*>c<*>b<*>b<*> for instance fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+41a31cc7,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM <*> (Lifecycle Event)
+6d1fd6b8,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+41a31cc7,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM <*> (Lifecycle Event)
+cc1d28ff,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+2b169498,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+6d1fd6b8,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+363f21a5,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Deleting instance files /var/lib/nova/instances/fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e_del
+b1bd2fb6,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+357abec7,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+0e742c5c,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Total <*> <*> <*> used: <*>.<*> <*>
+331e433c,"[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+0e742c5c,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Total <*> <*> <*> used: <*>.<*> <*>
+5f7fd86c,"[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] <*> limit not specified, defaulting to unlimited"
+0e742c5c,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Total <*> <*> <*> used: <*>.<*> <*>
+5f7fd86c,"[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] <*> limit not specified, defaulting to unlimited"
+16ce4907,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+aa0e5cd3,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+41a31cc7,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fc3906f2,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM <*> (Lifecycle Event)
+fc3906f2,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+12d84a54,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+d9babab1,Creating event network-vif-plugged:e<*>bf<*>-ae<*>-<*>e<*>-b<*>d<*>-<*>a<*>b<*>bed for instance <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fc3906f2,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM <*> (Lifecycle Event)
+1a64476c,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+fc3906f2,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM <*> (Lifecycle Event)
+d487925c,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5a0aa9ed,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+1a64476c,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+aa423a85,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Deleting instance files /var/lib/nova/instances/<*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf_del
+ccc67903,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+70be7b34,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+797554d4,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Total <*> <*> <*> used: <*>.<*> <*>
+ccbe6565,"[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+797554d4,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Total <*> <*> <*> used: <*>.<*> <*>
+2a09e36e,"[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] <*> limit not specified, defaulting to unlimited"
+797554d4,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Total <*> <*> <*> used: <*>.<*> <*>
+2a09e36e,"[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] <*> limit not specified, defaulting to unlimited"
+ffeefec2,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b8ccc3f2,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fc3906f2,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+30672b11,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM <*> (Lifecycle Event)
+30672b11,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+f030de75,Creating event network-vif-plugged:f<*>e<*>f<*>-<*>f<*>-<*>-<*>abf-<*>df<*>d<*>e<*>b<*> for instance d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+30672b11,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM <*> (Lifecycle Event)
+72bc3cbb,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+30672b11,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM <*> (Lifecycle Event)
+18bf143f,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Took <*>.<*> seconds to build instance.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+61f897f8,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Terminating instance
+72bc3cbb,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fcd614c0,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Deleting instance files /var/lib/nova/instances/d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c_del
+7e21b44f,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4cc8ca1e,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Took <*>.<*> seconds to deallocate network for instance.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+ed661fda,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Total <*> <*> <*> used: <*>.<*> <*>
+bb584828,"[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+ed661fda,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Total <*> <*> <*> used: <*>.<*> <*>
+1dc778b8,"[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] <*> limit not specified, defaulting to unlimited"
+ed661fda,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Total <*> <*> <*> used: <*>.<*> <*>
+1dc778b8,"[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] <*> limit not specified, defaulting to unlimited"
+ac6399d0,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df6d47d0,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+30672b11,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b0bcdffd,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM <*> (Lifecycle Event)
+b0bcdffd,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM <*> (Lifecycle Event)
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+13ab9c2d,Creating event network-vif-plugged:<*>a<*>ed-<*>-<*>-<*>e-f<*>ac<*>acc<*>d for instance <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b0bcdffd,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM <*> (Lifecycle Event)
+5b8d120c,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b0bcdffd,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM <*> (Lifecycle Event)
+4b3c6d3c,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a23c0c98,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5b8d120c,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+2f91b710,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Deleting instance files /var/lib/nova/instances/<*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>_del
+f5b1ae82,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+ae38027e,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+c17cceef,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Total <*> <*> <*> used: <*>.<*> <*>
+962e5294,"[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+c17cceef,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Total <*> <*> <*> used: <*>.<*> <*>
+f65fd066,"[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] <*> limit not specified, defaulting to unlimited"
+c17cceef,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Total <*> <*> <*> used: <*>.<*> <*>
+f65fd066,"[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] <*> limit not specified, defaulting to unlimited"
+e6722130,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+78aecf42,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b0bcdffd,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+ee95189a,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM <*> (Lifecycle Event)
+ee95189a,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+12d84a54,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+0dc4825d,Creating event network-vif-plugged:<*>bb<*>c<*>a<*>-effa-<*>-<*>cf<*>-<*>b<*>a<*>df<*> for instance <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+ee95189a,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+caa38d55,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+ee95189a,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM <*> (Lifecycle Event)
+360bc227,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a652393e,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+caa38d55,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+9f19504f,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Deleting instance files /var/lib/nova/instances/<*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>_del
+799fc3d7,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+987d184e,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+ea778d11,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+017314bd,"[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+ea778d11,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+8e96aaee,"[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] <*> limit not specified, defaulting to unlimited"
+ea778d11,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+8e96aaee,"[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] <*> limit not specified, defaulting to unlimited"
+ce6b7f53,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+d517464c,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+ee95189a,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5fc05b01,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor."
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df0146e4,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df0146e4,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+51081827,Creating event network-vif-plugged:<*>c<*>b<*>a-<*>a<*>-<*>d<*>-<*>-<*>c<*>aa<*> for instance bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df0146e4,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM <*> (Lifecycle Event)
+0c12e670,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+df0146e4,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM <*> (Lifecycle Event)
+2375a51c,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Took <*>.<*> seconds to build instance.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+41257eb9,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+0c12e670,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+62616748,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Deleting instance files /var/lib/nova/instances/bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e_del
+5e3c91a2,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+bb3940e4,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+e40257dd,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Total <*> <*> <*> used: <*>.<*> <*>
+b8fc8af3,"[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+e40257dd,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Total <*> <*> <*> used: <*>.<*> <*>
+2bef4524,"[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] <*> limit not specified, defaulting to unlimited"
+e40257dd,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Total <*> <*> <*> used: <*>.<*> <*>
+2bef4524,"[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] <*> limit not specified, defaulting to unlimited"
+d6d09675,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5f7e68ba,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df0146e4,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+7fda9560,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM <*> (Lifecycle Event)
+7fda9560,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+5edc24e6,Creating event network-vif-plugged:<*>c<*>f-<*>d<*>-<*>-ae<*>b-<*>bca<*>d<*>a<*> for instance be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+7fda9560,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM <*> (Lifecycle Event)
+5b02aba4,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+7fda9560,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM <*> (Lifecycle Event)
+bf677bf0,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+d48215cd,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5b02aba4,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+2c46b5cf,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Deleting instance files /var/lib/nova/instances/be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc_del
+4612c441,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+22c3ac4e,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Took <*>.<*> seconds to deallocate network for instance.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+dd7f8e4a,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Total <*> <*> <*> used: <*>.<*> <*>
+37b4be64,"[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+dd7f8e4a,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Total <*> <*> <*> used: <*>.<*> <*>
+c5769b43,"[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] <*> limit not specified, defaulting to unlimited"
+dd7f8e4a,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Total <*> <*> <*> used: <*>.<*> <*>
+c5769b43,"[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] <*> limit not specified, defaulting to unlimited"
+083f603e,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+d2573ff5,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+7fda9560,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+babe8b4b,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM <*> (Lifecycle Event)
+babe8b4b,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+12d84a54,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4e113ac1,Creating event network-vif-plugged:<*>ba<*>-<*>ef-<*>f<*>-<*>d<*>-d<*>c<*>f<*>cb<*> for instance a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+babe8b4b,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM <*> (Lifecycle Event)
+f711f5b7,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+9f358417,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Took <*>.<*> seconds to build instance.
+babe8b4b,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+aeb182ab,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+f711f5b7,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+99cc3aa0,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Deleting instance files /var/lib/nova/instances/a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d_del
+53c14bc4,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Deletion of <*>complete
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+42491252,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+1634d661,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Total <*> <*> <*> used: <*>.<*> <*>
+03f3d54e,"[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+1634d661,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Total <*> <*> <*> used: <*>.<*> <*>
+68cd8e27,"[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] <*> limit not specified, defaulting to unlimited"
+1634d661,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Total <*> <*> <*> used: <*>.<*> <*>
+68cd8e27,"[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] <*> limit not specified, defaulting to unlimited"
+92d74ef7,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+f24cf4fb,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+babe8b4b,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a6d6f8ea,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM <*> (Lifecycle Event)
+a6d6f8ea,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+102056df,Creating event network-vif-plugged:a<*>c<*>d-<*>cb-<*>ef<*>-b<*>c<*>-dbc<*>c<*>a<*>bd<*>c for instance d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a6d6f8ea,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM <*> (Lifecycle Event)
+0097b673,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+a6d6f8ea,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM <*> (Lifecycle Event)
+253bf6d8,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+aa2ffde0,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+0097b673,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+3a0057f7,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Deleting instance files /var/lib/nova/instances/d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d_del
+6e0965f4,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fe678e44,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+3b34a9f1,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+121d379c,"[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+3b34a9f1,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+5575e84d,"[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] <*> limit not specified, defaulting to unlimited"
+3b34a9f1,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Total <*> <*> <*> used: <*>.<*> <*>
+5575e84d,"[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] <*> limit not specified, defaulting to unlimited"
+7b8f71cc,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5288dd6d,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a6d6f8ea,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+75bdbfb7,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM <*> (Lifecycle Event)
+75bdbfb7,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+834821db,Creating event network-vif-plugged:<*>b<*>aca<*>-<*>e-<*>-<*>ff<*>-<*>d<*>ff<*> for instance d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+75bdbfb7,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM <*> (Lifecycle Event)
+57cb47e8,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+75bdbfb7,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM <*> (Lifecycle Event)
+f3b867d0,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Took <*>.<*> seconds to build instance.
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a236180d,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+57cb47e8,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+53096fd6,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Deleting instance files /var/lib/nova/instances/d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e_del
+60fba662,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+09faf36c,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+16173a7b,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Total <*> <*> <*> used: <*>.<*> <*>
+36803a6e,"[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+16173a7b,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Total <*> <*> <*> used: <*>.<*> <*>
+44cc62ea,"[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] <*> limit not specified, defaulting to unlimited"
+16173a7b,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Total <*> <*> <*> used: <*>.<*> <*>
+44cc62ea,"[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] <*> limit not specified, defaulting to unlimited"
+dae1e827,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+008386bb,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+75bdbfb7,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fc841fe9,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM <*> (Lifecycle Event)
+12d84a54,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.
+fc841fe9,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4019e84e,Creating event network-vif-plugged:b<*>f<*>d-d<*>bd-<*>-b<*>f-<*>e<*>fe<*>c<*>c for instance <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fc841fe9,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM <*> (Lifecycle Event)
+65e7f96c,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+fc841fe9,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM <*> (Lifecycle Event)
+47110eda,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+02fa0f35,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+65e7f96c,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+1b4a9d0f,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Deleting instance files /var/lib/nova/instances/<*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>_del
+c6f56f77,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c6e451cc,[instance: <*> Took <*>.<*> seconds to deallocate network for instance.
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+21252d8a,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Total <*> <*> <*> used: <*>.<*> <*>
+a0459803,"[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+21252d8a,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Total <*> <*> <*> used: <*>.<*> <*>
+85a8132e,"[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] <*> limit not specified, defaulting to unlimited"
+21252d8a,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Total <*> <*> <*> used: <*>.<*> <*>
+85a8132e,"[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] <*> limit not specified, defaulting to unlimited"
+8565fa38,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+d82d79a3,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+fc841fe9,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+93a04837,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM <*> (Lifecycle Event)
+93a04837,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM <*> (Lifecycle Event)
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+54401db4,Creating event network-vif-plugged:b<*>a<*>d<*>-ce<*>e-<*>ff-bb<*>d-a<*>b<*>f<*>e<*> for instance c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+93a04837,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM <*> (Lifecycle Event)
+edc19e39,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+93a04837,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM <*> (Lifecycle Event)
+cbe3a3d3,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+50118962,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Terminating instance
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+edc19e39,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+482e2a2a,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Deleting instance files /var/lib/nova/instances/c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf_del
+6013bdeb,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Deletion of <*>complete
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c6e451cc,[instance: <*> Took <*>.<*> seconds to deallocate network for instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+df60e4d1,HTTP exception thrown: No instances found for any event
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+6c54c63d,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+2c5bcd92,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Total <*> <*> <*> used: <*>.<*> <*>
+2a973023,"[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+2c5bcd92,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Total <*> <*> <*> used: <*>.<*> <*>
+52624dfb,"[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] <*> limit not specified, defaulting to unlimited"
+2c5bcd92,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Total <*> <*> <*> used: <*>.<*> <*>
+52624dfb,"[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] <*> limit not specified, defaulting to unlimited"
+b5e5a47c,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Claim successful
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+2ec7c329,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Creating image
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+93a04837,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+553ba0fc,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] VM <*> (Lifecycle Event)
+553ba0fc,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] VM <*> (Lifecycle Event)
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+a61de34d,Creating event network-vif-plugged:<*>f<*>af-aae<*>-<*>b<*>-<*>c<*>-a<*>bc<*>c<*>e<*>bb<*> for instance faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+553ba0fc,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] VM <*> (Lifecycle Event)
+291e3d04,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Instance <*> successfully.
+f799df0d,[instance: <*> Took <*>.<*> seconds to <*> the instance on the hypervisor.
+c8ba6a15,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+553ba0fc,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] VM <*> (Lifecycle Event)
+57250d2a,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Took <*>.<*> seconds to build instance.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+1877e3de,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Terminating instance
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>
+291e3d04,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Instance <*> successfully.
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>

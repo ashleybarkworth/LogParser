@@ -1,0 +1,40 @@
+EventId,EventTemplate,Occurrences
+74882d1d,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+24bc0989,Invalid user webmaster from <*>,2
+db9b36a4,input_userauth_request: invalid user <*> [preauth],61
+526267b4,pam_unix(sshd:auth): check pass; user unknown,135
+072bbeb0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,110
+4fdea429,Failed password for invalid user <*> from <*> port <*> ssh2,122
+cd9f0efa,Connection closed by <*> [preauth],34
+d5187f42,Invalid user <*> from <*>,104
+db9b36a4,input_userauth_request: invalid user <*> [preauth],52
+4fdea429,Failed password for invalid user <*> from <*> port <*> ssh2,2
+12ca011b,Received disconnect from <*>: 11: Bye Bye [preauth],413
+d5187f42,Invalid user <*> from <*>,2
+4fdea429,Failed password for invalid user <*> from <*> port <*> ssh2,2
+636815c0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*> <*>,384
+af19cd09,Failed password for <*> from <*> port <*> ssh2,383
+a03a6c72,message repeated 5 times: [ Failed password for root from <*> port <*> ssh2],2
+ee9185db,Disconnecting: Too many authentication failures for <*> [preauth],3
+218e81ae,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= <*> user=root,2
+d95aef96,PAM service(sshd) ignoring max retries; <*> > 3,7
+d5187f42,Invalid user <*> from <*>,2
+4fdea429,Failed password for invalid user <*> from <*> port <*> ssh2,2
+3e566102,Invalid user utsims from <*>,1
+9563aef6,Failed password for invalid user utsims from <*> port 41506 ssh2,1
+50840386,Did not receive identification string from <*>,10
+d0af56e3,Invalid user inspur from <*>,1
+4fdea429,Failed password for invalid user <*> from <*> port <*> ssh2,3
+bcf1b170,Invalid user support from <*>,1
+4fdea429,Failed password for invalid user <*> from <*> port <*> ssh2,3
+6edd49cd,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],2
+f2419151,Received disconnect from <*>: 11: Closed due to user request. [preauth],7
+e60f4212,Failed none for invalid user 0 from <*> port <*> ssh2,3
+3eaff166,Failed none for invalid user admin from <*> port 52631 ssh2,1
+99f860e0,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,8
+0cf3b342,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],45
+1a09f548,Accepted password for fztu from <*> port 49116 ssh2,1
+f79c41f6,pam_unix(sshd:session): session opened for user fztu by (uid=0),1
+9439f964,Received disconnect from <*>: 11: disconnected by user,1
+2e323293,pam_unix(sshd:session): session closed for user fztu,1
+9e3975c8,fatal: Write failed: Connection reset by peer [preauth],1
