@@ -9,7 +9,7 @@ import dataset_settings
 import evaluator
 
 data_dir = './data/'
-output_dir = './output/'
+templates_dir = './templates/'
 json_dir = './json/'
 DISTANCE_THRESHOLD = 0.1
 
@@ -160,10 +160,10 @@ def print_clusters(log_clusters, keyword_clusters):
 
 def write_results(log_clusters, templates, filename):
     df_log = pd.DataFrame()
-    if not os.path.isdir(output_dir):
-        os.makedirs(output_dir)
+    if not os.path.isdir(templates_dir):
+        os.makedirs(templates_dir)
 
-    df_cluster = []
+    clusters = []
     templates = [0] * len(templates)
     template_ids = [0] * len(templates)
     for c in log_clusters:
@@ -173,28 +173,28 @@ def write_results(log_clusters, templates, filename):
         for log_id in log_ids:
             templates[log_id] = template
             template_ids[log_id] = event_id
-        df_cluster.append([template, len(log_ids)])
+        clusters.append([template, len(log_ids)])
 
     df_log['EventId'] = template_ids
     df_log['EventTemplate'] = templates
 
-    pd.DataFrame(df_cluster, columns=['Log Template', 'Occurrences']).to_csv(
-        os.path.join(output_dir, filename + '_templates.csv'), index=False)
-    df_log.to_csv(os.path.join(output_dir, filename + '_structured.csv'), index=False)
+    df_templates = pd.DataFrame(clusters, columns=['Log Template', 'Number of Occurrences'])
+    df_templates.to_csv(os.path.join(templates_dir, filename + '_templates.csv'), index=False)
+    df_log.to_csv(os.path.join(templates_dir, filename + '_structured.csv'), index=False)
 
 
 def calculate_accuracy(filename):
     accuracy = evaluator.evaluate(
-        groundtruth=os.path.join(data_dir, filename + '_structured.csv'),
-        parsedresult=os.path.join(output_dir, filename + '_structured.csv')
+        groundtruth=os.path.join(data_dir, filename + '.csv'),
+        parsedresult=os.path.join(templates_dir, filename + '_structured.csv')
     )
     print('Parsing Accuracy: {:.4f}'.format(accuracy))
-
+    return accuracy
 
 # Open the file, create clusters, compute accuracy, and write convert structured logs to JSON
 def process_file(settings):
     filename = settings['log_file']
-    filepath = data_dir + filename + '_structured.csv'
+    filepath = data_dir + filename + '.csv'
 
     dataNewDataframe = []  # Storing all the value to required from CSV file to convert into JSON
     logsClusterDict = {}  # Create dictionary for logs -> clusterId
@@ -202,6 +202,7 @@ def process_file(settings):
     with open(filepath) as csv_file:
         reader = csv.DictReader(csv_file)
         keyword_clusters, log_clusters, templates = create_clusters(reader)
+        print('Number of clusters: {0}'.format(len(log_clusters)))
         # print_clusters(log_clusters, keyword_clusters)
         write_results(log_clusters, templates, filename)
         # Accuracy calculation
@@ -235,11 +236,13 @@ def process_file(settings):
                                      'Belongs to which cluster': clusterId, })
 
     newDataframe = pd.DataFrame(dataNewDataframe)
+    newDataframe.stack().unstack(0).reset_index()
 
     if not os.path.isdir(json_dir):
         os.makedirs(json_dir)
     json_file = json_dir + filename + '.json'
     newDataframe.to_json(json_file, orient='records', lines=True)
+
 
 if __name__ == '__main__':
     for dataset, settings in dataset_settings.settings.items():

@@ -1,6 +1,6 @@
 settings = {
     'HDFS': {
-        'log_file': 'HDFS_2k.log',
+        'log_file': 'HDFS_2k_log',
         'log_format': '<Date> <Time> <Pid> <Level> <Component>: <Content>',
         'CT': 0.35,
         'lowerBound': 0.25,
@@ -8,7 +8,7 @@ settings = {
         },
 
     'Hadoop': {
-        'log_file': 'Hadoop_2k.log',
+        'log_file': 'Hadoop_2k_log',
         'log_format': '<Date> <Time> <Level> \[<Process>\] <Component>: <Content>',
         'CT': 0.4,
         'lowerBound': 0.2,
@@ -16,7 +16,7 @@ settings = {
         },
 
     'Spark': {
-        'log_file': 'Spark_2k.log',
+        'log_file': 'Spark_2k_log',
         'log_format': '<Date> <Time> <Level> <Component>: <Content>',
         'CT': 0.35,
         'lowerBound': 0.3,
@@ -24,7 +24,7 @@ settings = {
         },
 
     'Zookeeper': {
-        'log_file': 'Zookeeper_2k.log',
+        'log_file': 'Zookeeper_2k_log',
         'log_format': '<Date> <Time> - <Level>  \[<Node>:<Component>@<Id>\] - <Content>',
         'CT': 0.4,
         'lowerBound': 0.7,
@@ -32,7 +32,7 @@ settings = {
         },
 
     'BGL': {
-        'log_file': 'BGL_2k.log',
+        'log_file': 'BGL_2k_log',
         'log_format': '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>',
         'CT': 0.4,
         'lowerBound': 0.01,
@@ -40,7 +40,7 @@ settings = {
         },
 
     'HPC': {
-        'log_file': 'HPC_2k.log',
+        'log_file': 'HPC_2k_log',
         'log_format': '<LogId> <Node> <Component> <State> <Time> <Flag> <Content>',
         'CT': 0.58,
         'lowerBound': 0.25,
@@ -48,7 +48,7 @@ settings = {
         },
 
     'Thunderbird': {
-        'log_file': 'Thunderbird_2k.log',
+        'log_file': 'Thunderbird_2k_log',
         'log_format': '<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>(\[<PID>\])?: <Content>',
         'CT': 0.3,
         'lowerBound': 0.2,
@@ -56,7 +56,7 @@ settings = {
         },
 
     'Windows': {
-        'log_file': 'Windows_2k.log',
+        'log_file': 'Windows_2k_log',
         'log_format': '<Date> <Time>, <Level>                  <Component>    <Content>',
         'CT': 0.3,
         'lowerBound': 0.25,
@@ -64,15 +64,15 @@ settings = {
         },
 
     'Linux': {
-        'log_file': 'Linux_2k.log',
+        'log_file': 'Linux_2k_log',
         'log_format': '<Month> <Date> <Time> <Level> <Component>(\[<PID>\])?: <Content>',
         'CT': 0.3,
         'lowerBound': 0.3,
         'regex': [r'(\d+\.){3}\d+', r'\d{2}:\d{2}:\d{2}']
         },
 
-    'Andriod': {
-        'log_file': 'Andriod_2k.log',
+    'Android': {
+        'log_file': 'Android_2k_log',
         'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>',
         'CT': 0.25,
         'lowerBound': 0.3,
@@ -80,7 +80,7 @@ settings = {
         },
 
     'HealthApp': {
-        'log_file': 'HealthApp_2k.log',
+        'log_file': 'HealthApp_2k_log',
         'log_format': '<Time>\|<Component>\|<Pid>\|<Content>',
         'CT': 0.25,
         'lowerBound': 0.3,
@@ -88,7 +88,7 @@ settings = {
         },
 
     'Apache': {
-        'log_file': 'Apache_2k.log',
+        'log_file': 'Apache_2k_log',
         'log_format': '\[<Time>\] \[<Level>\] <Content>',
         'CT': 0.3,
         'lowerBound': 0.4,
@@ -96,7 +96,7 @@ settings = {
         },
 
     'Proxifier': {
-        'log_file': 'Proxifier_2k.log',
+        'log_file': 'Proxifier_2k_log',
         'log_format': '\[<Time>\] <Program> - <Content>',
         'CT': 0.9,
         'lowerBound': 0.25,
@@ -104,7 +104,7 @@ settings = {
         },
 
     'OpenSSH': {
-        'log_file': 'OpenSSH_2k.log',
+        'log_file': 'OpenSSH_2k_log',
         'log_format': '<Date> <Day> <Time> <Component> sshd\[<Pid>\]: <Content>',
         'CT': 0.78,
         'lowerBound': 0.25,
@@ -112,7 +112,7 @@ settings = {
         },
 
     'OpenStack': {
-        'log_file': 'OpenStack_2k.log',
+        'log_file': 'OpenStack_2k_log',
         'log_format': '<Logrecord> <Date> <Time> <Pid> <Level> <Component> \[<ADDR>\] <Content>',
         'CT': 0.9,
         'lowerBound': 0.25,
@@ -120,7 +120,7 @@ settings = {
     },
 
     'Mac': {
-        'log_file': 'Mac_2k.log',
+        'log_file': 'Mac_2k_log',
         'log_format': '<Month>  <Date> <Time> <User> <Component>\[<PID>\]( \(<Address>\))?: <Content>',
         'CT': 0.3,
         'lowerBound': 0.25,
