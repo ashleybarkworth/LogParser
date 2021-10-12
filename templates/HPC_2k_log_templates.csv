@@ -1,0 +1,193 @@
+Log Template,Number of Occurrences
+Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973),1
+Component State Change: Component \042alt0\042 is in the unavailable state <*>,11
+clusterAddMember (command <*>,2
+risBoot  (command 1903),1
+bootGenvmunix  (command 1903),1
+boot  (command 1911),1
+boot  (command 1910),1
+boot  (command 1978),1
+boot  (command 1967),1
+wait  (command 1975),1
+boot  (command 1999),1
+halt  (command 1982),1
+boot  (command 1981),1
+boot  (command 1973),1
+wait  (command 1973),1
+wait  (command 2057),1
+boot  (command 2152),1
+wait  (command 2154),1
+boot  (command 2141),1
+boot  (command 2110),1
+boot  (command 2160),1
+halt  (command 2221),1
+wait (command 2217),2
+wait  (command 2201),1
+wait  (command 2199),1
+boot  (command 2183),1
+wait  (command 2189),1
+wait  (command 2302),1
+wait  (command 2270),1
+wait  (command 2257),1
+boot  (command 2257),1
+boot (command 2316),2
+wait  (command 2322),1
+wait  (command 2354),1
+wait  (command 2347),1
+boot  (command 2368),1
+boot  (command 2392),1
+boot  (command 2406),1
+boot  (command 2417),1
+boot  (command 2423),1
+wait  (command 2424),1
+wait  (command 2449),1
+boot  (command 2464),1
+wait  (command 2468),1
+boot  (command 2520),1
+wait  (command 2517),1
+boot  (command 2517),1
+wait  (command 2511),1
+wait  (command 2513),1
+boot  (command 2514),1
+wait  (command 2484),1
+boot  (command 2625),1
+wait  (command 2607),1
+boot (command 2616),3
+boot  (command 2619),1
+boot  (command 2602),1
+wait  (command 2582),1
+boot  (command 2584),1
+wait  (command 2549),1
+boot  (command 2550),1
+boot  (command 2548),1
+boot  (command 2538),1
+wait  (command 2683),1
+boot  (command 2686),1
+wait  (command 2682),1
+wait  (command 2763),1
+wait  (command 2800),1
+boot  (command 2790),1
+wait (command 2817),2
+wait  (command 2823),1
+wait  (command 2900),1
+wait  (command 2885),1
+wait  (command 2909),1
+boot  (command 2960),1
+wait  (command 2963),1
+boot  (command 2999),1
+halt  (command 2992),1
+wait  (command 3087),1
+wait  (command 3079),1
+wait  (command 3078),1
+wait  (command 3141),1
+boot  (command 3138),1
+boot (command 3169),2
+boot  (command 3194),1
+boot  (command 3320),1
+boot  (command 3318),1
+boot  (command 3317),1
+wait  (command 3319),1
+wait  (command 3334),1
+boot  (command 3334),1
+wait  (command 3412),1
+boot  (command 3413),1
+boot  (command 3473),1
+wait  (command 3523),1
+wait  (command 3525),1
+wait  (command 3519),1
+boot  (command 3519),1
+boot  (command 3512),1
+boot  (command 3579),1
+boot  (command 3572),1
+boot  (command 3580),1
+wait  (command 3612),1
+boot  (command 3615),1
+wait  (command 3609),1
+boot  (command 3624),1
+wait  (command 3649),1
+boot  (command 3639),1
+wait  (command 3690),1
+boot  (command 3696),1
+wait  (command 3698),1
+wait  (command 3709),1
+wait  (command 3837),1
+wait  (command 3847),1
+boot  (command 3951),1
+boot  (command 3928),1
+boot  (command 3939),1
+boot  (command 3964),1
+wait  (command 3973),1
+wait (command 3981),2
+boot  (command 4024),1
+wait  (command 4061),1
+wait  (command 4110),1
+boot  (command 4118),1
+wait  (command 4116),1
+wait  (command 4117),1
+boot  (command 4109),1
+wait  (command 4145),1
+boot  (command 4176),1
+boot  (command 4170),1
+wait (command 4176),2
+bootGenvmunix  (command 4185),1
+boot  (command 4223),1
+wait  (command 4221),1
+wait  (command 4219),1
+Command has completed successfully,10
+Targeting <*> and <*> child of command <*>,5
+Targeting domains:node-D7 and nodes:node-[224\ 228\ 232],1
+Targeting <*> and <*>,2
+Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191],1
+psu failure\ <*>,5
+Temperature (41C) exceeds warning threshold,2
+ClusterFileSystem: There is no server for ServerFileSystem domain <*>,32
+NIFF: node <*> detected a failed network connection on network 5.5.224.0 via interface alt0,2
+ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442,1
+Fan speeds ( 3552 <*> <*> <*> 3515 <*> ),77
+Fan speeds ( 3534 3534 3375 <*> 3497 3479 ),13
+Command has been aborted,1
+power/control problem,1
+Link error,13
+Link in reset,9
+Link ok,13
+Link error on broadcast tree <*>,4
+ServerFileSystem: ServerFileSystem domain <*> is full,12
+ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>,12
+ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>,24
+running,162
+blocked,15
+not responding,60
+configured out,91
+inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>,1
+active,5
+inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>,1
+not-responding,1
+inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>,1
+starting,1
+closing,1
+inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,1
+normal,206
+warning,205
+ambient=30,41
+critical,20
+ambient=31,32
+ambient=29,34
+ambient=26,19
+ambient=32,16
+ambient=33,34
+ambient=28,30
+ambient=27,30
+ambient=34,9
+ambient=35,11
+ambient=36,10
+ambient=25,20
+ambient=23,1
+ambient=24,4
+ambient=37,1
+Linkerror event interval expired,394
+risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,1
+boot (command 2092) Error: HALT asserted\  cannot continue,1
+Failed subcommands 3406,1
+link errors remain current,56
+NIFF: node <*> has detected an available network connection on network <*> via interface <*>,87
+NIFF: node <*> has detected an available network connection on network <*> via interface <*>,4

@@ -1,0 +1,13 @@
+Log Template,Number of Occurrences
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,569
+mod_jk child workerEnv in error state <*>,539
+jk2_init() Found child <*> in scoreboard slot <*>,836
+[client <*> Directory index forbidden by rule: /var/www/html/,9
+[client <*> Directory index forbidden by rule: /var/www/html/,12
+[client <*> Directory index forbidden by rule: /var/www/html/,2
+[client <*> Directory index forbidden by rule: /var/www/html/,2
+[client <*> Directory index forbidden by rule: /var/www/html/,3
+[client <*> Directory index forbidden by rule: /var/www/html/,2
+[client <*> Directory index forbidden by rule: /var/www/html/,2
+jk2_init() Can't find child <*> in scoreboard,12
+mod_jk child init 1 -2,12

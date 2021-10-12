@@ -1,0 +1,180 @@
+Log Template,Number of Occurrences
+onStandStepChanged <*>,260
+<*> <*> <*> <*>,311
+onReceive action: <*>,34
+processHandleBroadcastAction action:android.intent.action.SCREEN_ON,17
+flush sensor data,17
+ getTodayTotalDetailSteps = 1514038440000##6993##548365##8661##12266##27164404,1
+<*>,252
+calculateCaloriesWithCache <*>,241
+calculateAltitudeWithCache <*>,241
+REPORT : 7007 5002 150089 240,1
+ getTodayTotalDetailSteps = 1514038440000##7007##548365##8661##12361##27173954,1
+<*>,3
+REPORT : 7008 5003 150111 240,1
+getTodayTotalDetailSteps = <*>,240
+REPORT : 7009 5004 150132 240,1
+REPORT : 7011 5005 150175 240,1
+REPORT : 7012 5006 150197 240,1
+REPORT : 7013 5007 150218 240,1
+REPORT : 7014 5007 150239 240,1
+REPORT : 7015 5008 150261 240,1
+isScreenOn true,1
+"screen status unknown,think screen on",1
+REPORT : 7017 5010 150304 240,2
+REPORT : 7018 5010 150325 240,1
+REPORT : 7019 5011 150346 240,1
+REPORT : 7020 5012 150368 240,1
+REPORT : 7021 5012 150389 240,1
+REPORT : 7022 5013 150411 240,1
+REPORT : 7023 5014 150432 240,1
+REPORT : 7024 5015 150454 240,1
+REPORT : 7025 5015 150475 240,1
+REPORT : 7026 5016 150496 240,1
+REPORT : 7027 5017 150518 240,1
+REPORT : 7028 5017 150539 240,1
+REPORT : 7029 5018 150561 240,1
+REPORT : 7030 5019 150582 240,1
+REPORT : 7031 5020 150604 240,1
+REPORT : 7032 5020 150625 240,1
+REPORT : 7033 5021 150646 240,1
+REPORT : 7034 5022 150668 240,1
+REPORT : 7035 5022 150689 240,1
+REPORT : 7036 5023 150711 240,1
+REPORT : 7037 5024 150732 240,1
+REPORT : 7038 5025 150753 240,1
+REPORT : 7039 5025 150775 240,1
+REPORT : 7040 5026 150796 240,1
+REPORT : 7041 5027 150818 240,1
+REPORT : 7042 5027 150839 240,1
+REPORT : 7044 5029 150882 240,1
+REPORT : 7045 5030 150903 240,1
+REPORT : 7047 5031 150946 240,1
+REPORT : 7048 5032 150968 240,1
+REPORT : 7050 5033 151011 240,1
+REPORT : 7052 5035 151053 240,1
+REPORT : 7053 5035 151075 240,1
+processHandleBroadcastAction action:android.intent.action.TIME_TICK,144
+REPORT : 7054 5036 151096 240,1
+REPORT : 7056 5037 151139 240,1
+REPORT : 7058 5039 151182 240,1
+REPORT : 7060 5040 151225 240,1
+REPORT : 7062 5042 151268 240,1
+REPORT : 7064 5043 151310 240,1
+REPORT : 7066 5045 151353 240,1
+REPORT : 7068 5046 151396 240,1
+REPORT : 7070 5047 151439 240,1
+REPORT : 7071 5048 151460 240,1
+REPORT : 7074 5050 151525 240,1
+REPORT : 7075 5051 151546 240,1
+REPORT : 7077 5052 151589 240,1
+REPORT : 7079 5054 151632 240,1
+REPORT : 7081 5055 151675 240,1
+REPORT : 7083 5057 151717 240,1
+REPORT : 7084 5057 151739 240,1
+REPORT : 7086 5059 151782 240,1
+REPORT : 7088 5060 151824 240,1
+REPORT : 7090 5062 151867 240,1
+REPORT : 7092 5063 151910 240,1
+REPORT : 7094 5065 151953 240,1
+REPORT : 7095 5065 151974 240,1
+REPORT : 7097 5067 152017 240,1
+REPORT : 7099 5068 152060 240,1
+REPORT : 7101 5070 152103 240,1
+REPORT : 7102 5070 152124 240,1
+REPORT : 7103 5071 152146 240,1
+REPORT : 7104 5072 152167 240,1
+REPORT : 7105 5072 152189 240,1
+REPORT : 7106 5073 152210 240,1
+REPORT : 7107 5074 152231 240,1
+REPORT : 7109 5075 152274 240,1
+REPORT : 7111 5077 152317 240,1
+REPORT : 7112 5077 152339 240,1
+REPORT : 7113 5078 152360 240,1
+REPORT : 7114 5079 152381 240,1
+REPORT : 7117 5081 152446 240,1
+REPORT : 7122 5085 152553 240,1
+REPORT : 7124 5086 152596 240,1
+REPORT : 7126 5087 152638 240,1
+REPORT : 7128 5089 152681 240,1
+REPORT : 7130 5090 152724 240,1
+REPORT : 7132 5092 152767 240,1
+REPORT : 7135 5094 152831 240,1
+REPORT : 7139 5097 152917 240,1
+REPORT : 7140 5097 152938 240,1
+REPORT : 7154 5107 153238 240,1
+REPORT : 7160 5112 153367 240,1
+flushTempCacheToDB by stand,1
+Alarm uploadStaticsToDB totalSteps=7163Calories:153367Floor:240Distance:5112,1
+writeDataToDB size 327,1
+upLoadOneMinuteDataToEngine <*>,5
+"getAppContext() isAppValid health or wear, packageName = com.huawei.health",2
+insertHiHealthData() checkAppType 0 appID = 1,2
+"insertHiHealthData() size = <*> = 1,One Data Type = <*> = com.huawei.health,writeStatType = 0",2
+"saveStatData() type <*> = 1513958400000,statClient = 2,who is 1",4
+"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = <*>",2
+bulkSaveDetailHiHealthData() size = <*> = <*>,2
+"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT",1
+insertHiHealthData() end totalTime = <*>,2
+uploadStaticsToDB() onResult  type = 4 obj=true,1
+uploadStaticsToDB failed message=true,1
+checkInsertStatus stepSum or calorieSum is enough,2
+checkInsertStatus stepStatSum or calorieStatSum is enough,2
+"stepSyncOrNot appSynTimes is 0, statsyncTimes is 0",2
+"startInsertSportSync start auto sync,app is 1",2
+"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0",2
+"startInsertSportSync first 500 steps sync,do all sync",2
+"startSync hiSyncOption = <*> syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",5
+"initDataPrivacy the dataPrivacy switch is open, start push health data!",5
+initDataPrivacy the dataPrivacy is true,5
+"initUserPrivacy the userPrivacy switch is open, start push user data!",5
+initUserPrivacy the userPrivacy is true,5
+ifCanSync not! no cloud version,5
+"saveRealTimeHealthDatasStat() size = 1,totalTime = 48",1
+InsertCallBack() onSuccess  type = 0 data=true,1
+setWriteDBLastDataMinute success,1
+flush2DB result success,1
+REPORT : 7163 5114 153431 240,1
+REPORT : 7165 5115 153474 240,1
+REPORT : 7167 5117 153517 240,1
+REPORT : 7170 5119 153581 240,1
+REPORT : 7173 5121 153645 240,1
+REPORT : 7174 5122 153667 240,1
+REPORT : 7176 5123 153709 240,1
+REPORT : 7179 5125 153774 240,1
+REPORT : 7181 5127 153817 240,1
+REPORT : 7183 5128 153859 240,1
+REPORT : 7185 5130 153902 240,1
+REPORT : 7186 5130 153924 240,1
+REPORT : 7187 5131 153945 240,1
+REPORT : 7188 5132 153966 240,1
+REPORT : 7189 5132 153988 240,16
+timeStamp <*>,5
+startTimer start autoSync,3
+getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,6
+REPORT : 7191 5134 154031 240,1
+REPORT : 7192 5135 154052 240,1
+REPORT : 7193 5135 154074 240,1
+REPORT : 7196 5137 154138 240,1
+REPORT : 7198 5139 154181 240,1
+REPORT : 7200 5140 154223 240,1
+REPORT : 7202 5142 154266 240,1
+REPORT : 7205 5144 154331 240,1
+REPORT : 7208 5146 154395 240,1
+REPORT : 7211 5148 154459 240,1
+REPORT : 7212 5149 154481 240,1
+REPORT : 7214 5150 154523 240,3
+theDayChanged 1514044800216,1
+ getStepCounterStatus= true,1
+registersensorsuccess: true,1
+ getTodayBasicStandardSteps= 1514018661124##0##3428,1
+tryToRecordAsBasicStepData bWrite true,1
+ getDiffTotalSteps= 1513958400215##0,1
+setBasicStandardSteps basicStandardStep=3786 restartSteps=0,1
+ getTodayBasicStandardSteps= 1514044800223##3786##0,1
+ getDiffTotalSteps= 1514044800231##0,1
+reload : 3786 restar 0,1
+REPORT : 0 0 0 0,1
+next day:steps0mLastReport7214,1
+setGoalNotifiShownRecord 1514044800237 false,1
+"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 20171224 oldDay is 20171223",1
